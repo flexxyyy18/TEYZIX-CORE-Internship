@@ -1,0 +1,1216 @@
+Transaction_ID,Customer_ID,Purchase_Date,Customer_Name,Gender,Age,City,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Total_Amount,Payment_Method
+TXN000001,CUST0176,2025-10-29,Hassan Ali,Male,33,Islamabad,Gaming,PS Controller,2,18000,0,36000,Cash
+TXN000002,CUST0176,2025-04-28,Hassan Ali,Male,55,Lahore,Electronics,Tablet,3,70000,0,210000,Cash
+TXN000003,CUST0061,2025-09-13,Zain Malik,Male,44,Multan,Electronics,Smart Watch,1,25000,15,21250,Cash
+TXN000004,CUST0257,2025-10-29,Sara Ahmed,Female,20,Multan,Gaming,Gaming Mouse,1,6500,5,6175,JazzCash
+TXN000005,CUST0281,2025-02-24,Hamza Shah,Male,43,Karachi,Electronics,Smartphone,2,90000,15,153000,Debit Card
+TXN000006,CUST0298,2025-10-03,Sara Ahmed,Female,43,Multan,Electronics,Laptop,2,180000,5,342000,Cash
+TXN000007,CUST0383,2025-10-27,Laiba Khan,Female,49,Rawalpindi,Accessories,Power Bank,4,6500,15,22100,Cash
+TXN000008,CUST0425,2025-03-25,Bilal Ahmed,Male,27,Lahore,Electronics,Tablet,3,70000,5,199500,Credit Card
+TXN000009,CUST0287,2025-02-09,Abdullah Tariq,Male,19,Islamabad,Gaming,Gaming Mouse,3,6500,0,19500,Credit Card
+TXN000010,CUST0089,2025-06-01,Abdullah Tariq,Male,18,Karachi,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000011,CUST0357,2025-03-14,Maryam Iqbal,Female,30,Islamabad,Accessories,Keyboard,2,4500,10,8100,Debit Card
+TXN000012,CUST0410,2025-02-01,Bilal Ahmed,Male,54,Islamabad,Electronics,Smartphone,3,90000,5,256500,Cash
+TXN000013,CUST0115,2025-09-29,Umar Farooq,Male,39,Lahore,Electronics,Smart Watch,4,25000,0,100000,Cash
+TXN000014,CUST0054,2025-01-15,Umar Farooq,Male,36,Islamabad,Accessories,Keyboard,1,4500,0,4500,Debit Card
+TXN000015,CUST0350,2025-12-05,Abdullah Tariq,Male,37,Karachi,Electronics,Smart Watch,1,25000,5,23750,Debit Card
+TXN000016,CUST0214,2025-10-08,Hassan Ali,Male,55,Rawalpindi,Office,External HDD,1,18000,0,18000,Debit Card
+TXN000017,CUST0326,2025-10-13,Ali Khan,Male,33,Lahore,Accessories,USB Cable,3,1200,0,3600,Debit Card
+TXN000018,CUST0017,2025-07-05,Maryam Iqbal,Female,57,Multan,Home Appliances,Blender,2,9500,0,19000,Cash
+TXN000019,CUST0429,2025-04-23,Sara Ahmed,Female,24,Rawalpindi,Electronics,Tablet,3,70000,0,210000,Cash
+TXN000020,CUST0053,2025-07-19,Ahmed Raza,Male,22,Multan,Accessories,USB Cable,2,1200,10,2160,Debit Card
+TXN000021,CUST0228,2025-08-09,Laiba Khan,Female,50,Karachi,Electronics,Laptop,1,180000,0,180000,Credit Card
+TXN000022,CUST0149,2025-01-11,Maryam Iqbal,Female,55,Lahore,Electronics,Laptop,2,180000,15,306000,Debit Card
+TXN000023,CUST0255,2025-05-29,Bilal Ahmed,Male,27,Karachi,Accessories,Power Bank,1,6500,0,6500,Debit Card
+TXN000024,CUST0231,2025-08-09,Laiba Khan,Female,44,Karachi,Electronics,Laptop,1,180000,0,180000,Cash
+TXN000025,CUST0030,2025-07-20,Noor Fatima,Female,24,Karachi,Accessories,Keyboard,3,4500,5,12825,EasyPaisa
+TXN000026,CUST0136,2025-05-27,Fatima Khan,Female,40,Faisalabad,Home Appliances,Blender,1,9500,5,9025,Debit Card
+TXN000027,CUST0063,2025-03-06,Hassan Ali,Male,30,Rawalpindi,Accessories,USB Cable,2,1200,10,2160,Cash
+TXN000028,CUST0189,2025-08-12,Ahmed Raza,Male,24,Multan,Gaming,Gaming Keyboard,2,12000,0,24000,Credit Card
+TXN000029,CUST0012,2025-07-10,Zain Malik,Male,59,Islamabad,Home Appliances,Blender,5,9500,0,47500,JazzCash
+TXN000030,CUST0003,2025-09-11,Fatima Khan,Female,53,Islamabad,Electronics,Tablet,3,70000,5,199500,Debit Card
+TXN000031,CUST0263,2025-01-08,Hamza Shah,Male,32,Lahore,Electronics,Smart Watch,4,25000,10,90000,Credit Card
+TXN000032,CUST0048,2025-04-18,Sara Ahmed,Female,33,Karachi,Office,External HDD,1,18000,0,18000,Debit Card
+TXN000033,CUST0165,2025-07-23,Hassan Ali,Male,19,Lahore,Electronics,Laptop,1,180000,5,171000,Credit Card
+TXN000034,CUST0135,2025-01-11,Zain Malik,Male,38,Rawalpindi,Accessories,Mouse,1,2500,0,2500,Cash
+TXN000035,CUST0262,2025-12-07,Bilal Ahmed,Male,35,Lahore,Accessories,Mouse,2,2500,15,4250,Debit Card
+TXN000036,CUST0315,2025-07-04,Fatima Khan,Female,34,Lahore,Accessories,Keyboard,1,4500,0,4500,Credit Card
+TXN000037,CUST0105,2025-08-10,Zain Malik,Male,49,Multan,Electronics,Smart Watch,1,25000,10,22500,Debit Card
+TXN000038,CUST0089,2025-10-25,Ahmed Raza,Male,56,Peshawar,Home Appliances,Vacuum Cleaner,3,26000,15,66300,JazzCash
+TXN000039,CUST0365,2025-08-03,Noor Fatima,Female,34,Rawalpindi,Accessories,Keyboard,3,4500,5,12825,Cash
+TXN000040,CUST0137,2025-01-10,Laiba Khan,Female,39,Hyderabad,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000041,CUST0037,2025-08-09,Zain Malik,Male,38,Karachi,Home Appliances,Blender,3,9500,15,24225,Debit Card
+TXN000042,CUST0378,2025-05-30,Ayesha Noor,Female,60,LAHORE,Electronics,Smart Watch,1,25000,5,23750,Credit Card
+TXN000043,CUST0267,2025-02-13,Noor Fatima,Female,51,Multan,Home Appliances,Vacuum Cleaner,2,26000,0,52000,JazzCash
+TXN000044,CUST0404,2025-02-10,Hamza Shah,Male,43,Islamabad,Accessories,Mouse,1,2500,0,2500,Cash
+TXN000045,CUST0329,2025-05-22,Maryam Iqbal,Female,54,Lahore,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN000046,CUST0236,2025-11-05,Laiba Khan,Female,35,Islamabad,Accessories,Mouse,1,2500,10,2250,Debit Card
+TXN000047,CUST0361,2025-10-01,,Male,56,Rawalpindi,Office,Printer,5,35000,10,157500,JazzCash
+TXN000048,CUST0321,2025-01-04,Fatima Khan,Female,27,Lahore,Accessories,Power Bank,2,6500,5,12350,Credit Card
+TXN000049,CUST0384,2025-12-25,Abdullah Tariq,Male,45,Lahore,Electronics,Smartphone,4,90000,15,306000,Cash
+TXN000050,CUST0127,2025-03-30,Ayesha Noor,Female,57,Karachi,Home Appliances,Air Fryer,2,18000,0,36000,Debit Card
+TXN000051,CUST0061,2025-06-29,Sara Ahmed,Female,60,Lahore,Accessories,Headphones,3,7000,20,16800,Debit Card
+TXN000052,CUST0263,2025-10-02,Laiba Khan,Female,40,Karachi,Accessories,Keyboard,2,4500,10,8100,Credit Card
+TXN000053,CUST0114,2025-06-05,Zain Malik,Male,54,Rawalpindi,Office,External HDD,2,18000,0,36000,JazzCash
+TXN000054,CUST0010,2025-11-03,Hassan Ali,Male,26,Karachi,Accessories,Headphones,3,7000,0,21000,Cash
+TXN000055,CUST0234,2025-06-27,Ayesha Noor,Female,33,Hyderabad,Gaming,PS Controller,1,18000,10,16200,Credit Card
+TXN000056,CUST0397,2025-03-07,Ahmed Raza,Male,33,Islamabad,Office,External HDD,3,18000,5,51300,Credit Card
+TXN000057,CUST0013,2025-05-30,Maryam Iqbal,Female,25,Karachi,Home Appliances,Blender,1,9500,0,9500,Cash
+TXN000058,CUST0432,2025-03-07,Maryam Iqbal,Female,46,Islamabad,Accessories,Keyboard,4,4500,0,18000,Cash
+TXN000059,CUST0182,2025-02-17,Abdullah Tariq,Male,38,Lahore,Home Appliances,Microwave,2,32000,10,57600,JazzCash
+TXN000060,CUST0141,2025-08-20,Fatima Khan,Female,49,Karachi,Gaming,PS Controller,2,18000,0,36000,Credit Card
+TXN000061,CUST0139,2025-12-24,Zain Malik,Male,18,Karachi,Accessories,Power Bank,2,6500,15,11050,JazzCash
+TXN000062,CUST0387,2025-02-18,Bilal Ahmed,Male,34,Rawalpindi,Electronics,Tablet,5,70000,0,350000,Cash
+TXN000063,CUST0396,2025-08-10,Fatima Khan,Female,38,Lahore,Electronics,Smart Watch,4,25000,0,100000,Debit Card
+TXN000064,CUST0305,2025-02-03,Laiba Khan,Female,44,Lahore,Electronics,Tablet,4,70000,0,280000,Cash
+TXN000065,CUST0167,2025-03-14,Ahmed Raza,Male,36,Rawalpindi,Accessories,Keyboard,2,4500,5,8550,Debit Card
+TXN000066,CUST0398,2025-05-02,Ayesha Noor,Female,57,Islamabad,Accessories,Power Bank,3,6500,0,19500,Cash
+TXN000067,CUST0229,2025-02-24,Abdullah Tariq,Male,23,Rawalpindi,Gaming,PS Controller,1,18000,0,18000,Debit Card
+TXN000068,CUST0240,2025-02-27,Laiba Khan,Female,50,Lahore,Gaming,PS Controller,1,18000,0,18000,Debit Card
+TXN000069,CUST0445,2025-02-21,Laiba Khan,Female,40,Islamabad,Home Appliances,Vacuum Cleaner,2,26000,10,46800,Debit Card
+TXN000070,CUST0178,2025-09-10,Ali Khan,Male,48,Karachi,Accessories,Power Bank,1,6500,15,5525,Cash
+TXN000071,CUST0103,2025-12-06,Ayesha Noor,Female,41,Peshawar,Accessories,Mouse,3,2500,0,7500,Debit Card
+TXN000072,CUST0235,2025-07-21,Sara Ahmed,Female,31,Hyderabad,Accessories,Mouse,1,2500,10,2250,Credit Card
+TXN000073,CUST0007,2025-12-24,Ali Khan,Male,25,Multan,Electronics,Tablet,1,70000,10,63000,Cash
+TXN000074,CUST0088,2025-01-16,Maryam Iqbal,Female,34,Sialkot,Accessories,Headphones,1,7000,0,7000,Credit Card
+TXN000075,CUST0120,2025-02-11,Ahmed Raza,Male,39,Karachi,Electronics,Laptop,1,180000,5,171000,Credit Card
+TXN000076,CUST0051,2025-06-15,Usman Ali,Male,47,Islamabad,Electronics,Smartphone,1,90000,15,76500,Debit Card
+TXN000077,CUST0399,2025-02-11,Maryam Iqbal,Female,48,Faisalabad,Accessories,Headphones,2,7000,15,11900,Debit Card
+TXN000078,CUST0336,2025-08-04,Bilal Ahmed,Male,52,Lahore,Gaming,Gaming Keyboard,2,12000,0,24000,Cash
+TXN000079,CUST0201,2025-10-08,Ayesha Noor,Female,23,Karachi,Gaming,Gaming Mouse,3,6500,10,17550,JazzCash
+TXN000080,CUST0208,2025-02-27,Bilal Ahmed,Male,36,Lahore,Accessories,Mouse,1,2500,5,2375,Cash
+TXN000081,CUST0188,2025-07-14,Hamza Shah,Male,20,Sialkot,Office,External HDD,2,18000,5,34200,Cash
+TXN000082,CUST0250,2025-04-02,Umar Farooq,Male,30,Islamabad,Electronics,Smart Watch,3,25000,10,67500,Cash
+TXN000083,CUST0313,2025-08-23,Ayesha Noor,Female,48,Rawalpindi,Gaming,Gaming Keyboard,2,12000,0,24000,Credit Card
+TXN000084,CUST0045,2025-01-02,Ayesha Noor,Female,51,Faisalabad,Electronics,Smart Watch,2,25000,0,50000,EasyPaisa
+TXN000085,CUST0271,2025-10-29,Umar Farooq,Male,59,Lahore,Office,External HDD,3,18000,10,48600,EasyPaisa
+TXN000086,CUST0121,2025-06-11,Ayesha Noor,Female,19,islamabad,Accessories,USB Cable,2,1200,0,2400,Cash
+TXN000087,CUST0078,2025-08-23,Hassan Ali,Male,32,Hyderabad,Office,External HDD,1,18000,0,18000,Credit Card
+TXN000088,CUST0443,2025-03-24,Ahmed Raza,Male,25,Karachi,Office,Webcam,1,9000,0,9000,Cash
+TXN000089,CUST0151,2025-11-15,Noor Fatima,Female,42,Sialkot,Electronics,Smartphone,1,90000,5,85500,Cash
+TXN000090,CUST0442,2025-11-27,Zain Malik,Male,49,Karachi,Home Appliances,Vacuum Cleaner,1,26000,10,23400,Cash
+TXN000091,CUST0167,2025-08-13,Noor Fatima,Female,28,Karachi,Office,Printer,1,35000,5,33250,Debit Card
+TXN000092,CUST0139,2025-08-01,Hamza Shah,Male,24,Lahore,Accessories,Mouse,3,2500,5,7125,Cash
+TXN000093,CUST0159,2025-07-29,Hamza Shah,Male,18,Karachi,Gaming,Gaming Keyboard,1,12000,0,12000,Debit Card
+TXN000094,CUST0324,2025-04-11,Ali Khan,Male,42,Rawalpindi,Electronics,Laptop,1,180000,0,180000,EasyPaisa
+TXN000095,CUST0092,2025-11-18,Umar Farooq,Male,26,Faisalabad,Accessories,Mouse,4,2500,10,9000,Cash
+TXN000096,CUST0265,2025-09-27,Ahmed Raza,Male,59,Rawalpindi,Gaming,Gaming Keyboard,2,12000,5,22800,Debit Card
+TXN000097,CUST0370,2025-05-06,Laiba Khan,Female,30,Rawalpindi,Electronics,Tablet,5,70000,5,332500,Cash
+TXN000098,CUST0292,2025-05-13,Umar Farooq,Male,30,Karachi,Electronics,Tablet,1,70000,0,70000,Cash
+TXN000099,CUST0328,2025-01-25,Maryam Iqbal,Female,49,Karachi,Home Appliances,Blender,1,9500,0,9500,EasyPaisa
+TXN000100,CUST0381,2025-04-07,Maryam Iqbal,Female,54,Peshawar,Office,Printer,2,35000,20,56000,Credit Card
+TXN000101,CUST0393,2025-04-02,Hassan Ali,Male,34,Multan,Accessories,Keyboard,1,4500,0,4500,EasyPaisa
+TXN000102,CUST0167,2025-12-07,Hassan Ali,Male,54,Lahore,Accessories,Mouse,2,2500,0,5000,Cash
+TXN000103,CUST0240,2025-09-17,Bilal Ahmed,Male,53,Karachi,Office,Webcam,1,9000,5,8550,Credit Card
+TXN000104,CUST0228,2025-12-06,Hassan Ali,Male,39,Multan,Office,Webcam,1,9000,10,8100,Cash
+TXN000105,CUST0125,2025-12-20,Bilal Ahmed,Male,53,Peshawar,Home Appliances,Air Fryer,3,18000,0,54000,Cash
+TXN000106,CUST0182,2025-10-14,Hamza Shah,Male,32,Hyderabad,Accessories,Headphones,5,7000,10,31500,JazzCash
+TXN000107,CUST0436,2025-09-10,Zain Malik,Male,46,Hyderabad,Electronics,Smartphone,2,90000,15,153000,Debit Card
+TXN000108,CUST0287,2025-08-07,Laiba Khan,Female,23,Multan,Electronics,Laptop,1,180000,15,153000,
+TXN000109,CUST0084,2025-12-24,Bilal Ahmed,Male,32,Karachi,Accessories,Power Bank,3,6500,10,17550,Credit Card
+TXN000110,CUST0346,2025-11-15,Usman Ali,Male,19,Islamabad,Office,Printer,1,35000,20,28000,JazzCash
+TXN000111,CUST0271,2025-06-09,Usman Ali,Male,45,Lahore,Gaming,Gaming Keyboard,1,12000,0,12000,Cash
+TXN000112,CUST0379,2025-03-03,Sara Ahmed,Female,44,Rawalpindi,Accessories,Headphones,1,7000,0,7000,Cash
+TXN000113,CUST0209,2025-01-16,Ali Khan,Male,43,Islamabad,Accessories,Headphones,1,7000,0,7000,Credit Card
+TXN000114,CUST0343,2025-10-04,Usman Ali,Male,32,Karachi,Electronics,Tablet,2,70000,10,126000,Debit Card
+TXN000115,CUST0414,2025-09-06,Bilal Ahmed,Male,49,Lahore,Electronics,Smartphone,1,90000,0,90000,Debit Card
+TXN000116,CUST0016,2025-04-01,Abdullah Tariq,Male,55,Karachi,Accessories,Mouse,1,2500,10,2250,EasyPaisa
+TXN000117,CUST0255,2025-08-06,Ali Khan,Male,50,Lahore,Home Appliances,Vacuum Cleaner,1,26000,0,26000,Debit Card
+TXN000118,CUST0383,2025-09-26,Usman Ali,Male,31,Peshawar,Gaming,Gaming Mouse,2,6500,10,11700,JazzCash
+TXN000119,CUST0141,2025-09-10,Maryam Iqbal,Female,32,Islamabad,Electronics,Smartphone,1,90000,15,76500,Credit Card
+TXN000120,CUST0034,2025-06-12,Ayesha Noor,Female,60,Hyderabad,Electronics,Laptop,4,180000,0,720000,Cash
+TXN000121,CUST0388,2025-09-07,Abdullah Tariq,Male,52,Islamabad,Office,Printer,2,35000,0,70000,Cash
+TXN000122,CUST0054,2025-10-03,Abdullah Tariq,Male,54,Islamabad,Accessories,Power Bank,1,6500,0,6500,Debit Card
+TXN000123,CUST0050,2025-11-23,Usman Ali,Male,39,Lahore,Gaming,Gaming Keyboard,1,12000,5,11400,JazzCash
+TXN000124,CUST0332,2025-04-06,Laiba Khan,Female,41,Karachi,Electronics,Tablet,4,70000,15,238000,Cash
+TXN000125,CUST0311,2025-04-26,Ahmed Raza,Male,24,Karachi,Electronics,Tablet,2,70000,0,140000,Debit Card
+TXN000126,CUST0021,2025-07-05,Hassan Ali,Male,34,Islamabad,Gaming,Gaming Mouse,2,6500,0,13000,JazzCash
+TXN000127,CUST0324,2025-01-31,Umar Farooq,Male,25,Islamabad,Accessories,Mouse,3,2500,15,6375,Cash
+TXN000128,CUST0396,2025-02-27,Zain Malik,Male,34,Lahore,Electronics,Smart Watch,2,25000,5,47500,Debit Card
+TXN000129,CUST0114,2025-01-25,Noor Fatima,Female,52,Hyderabad,Home Appliances,Microwave,1,32000,5,30400,JazzCash
+TXN000130,CUST0258,2025-02-08,Bilal Ahmed,Male,31,Rawalpindi,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000131,CUST0167,2025-02-16,Usman Ali,Male,30,Peshawar,Electronics,Smart Watch,3,25000,0,75000,Debit Card
+TXN000132,CUST0093,2025-07-13,Ahmed Raza,Male,56,Faisalabad,Gaming,PS Controller,1,18000,0,18000,Credit Card
+TXN000133,CUST0045,2025-04-25,Usman Ali,Male,35,Islamabad,Electronics,Tablet,4,70000,15,238000,JazzCash
+TXN000134,CUST0123,2025-02-01,Usman Ali,Male,45,Lahore,Office,External HDD,5,18000,10,81000,Credit Card
+TXN000135,CUST0135,2025-11-20,Ali Khan,Male,28,Faisalabad,Home Appliances,Vacuum Cleaner,2,26000,5,49400,Cash
+TXN000136,CUST0399,2025-08-25,Hamza Shah,Male,52,Multan,Accessories,Mouse,3,2500,10,6750,EasyPaisa
+TXN000137,CUST0104,2025-11-25,Fatima Khan,Female,49,Lahore,Office,External HDD,3,18000,15,45900,JazzCash
+TXN000138,CUST0079,2025-11-03,Hassan Ali,Male,40,Peshawar,Electronics,Smartphone,3,90000,0,270000,Debit Card
+TXN000139,CUST0096,2025-01-14,Noor Fatima,Female,31,Sialkot,Gaming,Gaming Mouse,3,6500,10,17550,Credit Card
+TXN000140,CUST0262,2025-03-01,Laiba Khan,Female,24,Multan,Electronics,Laptop,4,180000,15,612000,Debit Card
+TXN000141,CUST0377,2025-04-01,Hamza Shah,Male,45,Lahore,Home Appliances,Air Fryer,3,18000,0,54000,
+TXN000142,CUST0329,2025-06-28,Noor Fatima,Female,60,Lahore,Home Appliances,Air Fryer,3,18000,10,48600,Cash
+TXN000143,CUST0399,2025-06-20,Fatima Khan,Female,30,Lahore,Home Appliances,Air Fryer,2,18000,0,36000,JazzCash
+TXN000144,CUST0078,2025-08-13,Zain Malik,Male,21,karachi,Accessories,Mouse,3,2500,10,6750,Cash
+TXN000145,CUST0214,2025-04-28,Ayesha Noor,Female,47,Islamabad,Home Appliances,Blender,5,9500,20,38000,Debit Card
+TXN000146,CUST0194,2025-03-19,Abdullah Tariq,Male,21,Sialkot,Accessories,USB Cable,1,1200,15,1020,EasyPaisa
+TXN000147,CUST0347,2025-06-27,Sara Ahmed,Female,51,Islamabad,Electronics,Smartphone,1,90000,15,76500,Cash
+TXN000148,CUST0296,2025-09-15,Laiba Khan,Female,22,Rawalpindi,Accessories,Mouse,1,2500,0,2500,Cash
+TXN000149,CUST0197,2025-10-08,Hamza Shah,Male,30,Rawalpindi,Gaming,PS Controller,1,18000,0,18000,Cash
+TXN000150,CUST0374,2025-11-29,Bilal Ahmed,Male,47,Islamabad,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000151,CUST0107,2025-10-13,Ali Khan,Male,50,Karachi,Gaming,Gaming Keyboard,4,12000,0,48000,Cash
+TXN000152,CUST0203,2025-03-30,Abdullah Tariq,Male,41,Faisalabad,Accessories,Keyboard,2,4500,10,8100,Debit Card
+TXN000153,CUST0138,2025-09-20,Usman Ali,Male,53,Multan,Gaming,Gaming Keyboard,3,12000,0,36000,Credit Card
+TXN000154,CUST0028,2025-01-15,Noor Fatima,Female,41,Karachi,Home Appliances,Vacuum Cleaner,2,26000,0,52000,Cash
+TXN000155,CUST0091,2025-04-15,Ahmed Raza,Male,28,Peshawar,Electronics,Smart Watch,1,25000,10,22500,JazzCash
+TXN000156,CUST0101,2025-07-04,Hassan Ali,Male,21,Rawalpindi,Gaming,Gaming Keyboard,1,12000,10,10800,Credit Card
+TXN000157,CUST0038,2025-09-22,Umar Farooq,Male,60,Karachi,Electronics,Laptop,1,180000,15,153000,Debit Card
+TXN000158,CUST0440,2025-09-23,Hassan Ali,Male,22,Karachi,Electronics,Tablet,3,70000,20,168000,Debit Card
+TXN000159,CUST0363,2025-01-11,Laiba Khan,Female,24,Rawalpindi,Home Appliances,Microwave,4,32000,0,128000,Debit Card
+TXN000160,CUST0090,2025-04-17,Maryam Iqbal,Female,18,Quetta,Electronics,Smart Watch,1,25000,10,22500,Cash
+TXN000161,CUST0424,2025-06-16,Fatima Khan,Female,57,Lahore,Accessories,Headphones,1,7000,0,7000,Debit Card
+TXN000162,CUST0043,2025-09-27,Hassan Ali,Male,46,Lahore,Accessories,USB Cable,1,1200,15,1020,Cash
+TXN000163,CUST0342,2025-11-03,Laiba Khan,Female,30,Lahore,Accessories,Power Bank,4,6500,10,23400,Debit Card
+TXN000164,CUST0324,2025-11-03,Ayesha Noor,Female,45,Rawalpindi,Office,Printer,2,35000,0,70000,Cash
+TXN000165,CUST0160,2025-02-18,Usman Ali,Male,48,Islamabad,Electronics,Tablet,1,70000,0,70000,Cash
+TXN000166,CUST0256,2025-04-21,Ahmed Raza,Male,45,Islamabad,Accessories,Mouse,4,2500,0,10000,JazzCash
+TXN000167,CUST0239,2025-12-31,Ahmed Raza,Male,51,Rawalpindi,Gaming,Gaming Mouse,1,6500,20,5200,Cash
+TXN000168,CUST0383,2025-10-06,Abdullah Tariq,Male,45,Islamabad,Accessories,Mouse,2,2500,5,4750,Debit Card
+TXN000169,CUST0393,2025-04-12,Hamza Shah,Male,44,Multan,Electronics,Tablet,1,70000,15,59500,Cash
+TXN000170,CUST0117,2025-08-14,Abdullah Tariq,Male,48,Rawalpindi,Electronics,Smart Watch,1,25000,5,23750,Cash
+TXN000171,CUST0103,2025-01-16,Sara Ahmed,Female,52,Multan,Home Appliances,Vacuum Cleaner,1,26000,0,26000,Credit Card
+TXN000172,CUST0008,2025-10-02,Ali Khan,Male,33,Karachi,Gaming,Gaming Keyboard,3,12000,0,36000,Cash
+TXN000173,CUST0185,2025-08-29,Hassan Ali,Male,56,Peshawar,Gaming,Gaming Mouse,4,6500,0,26000,Debit Card
+TXN000174,CUST0038,2025-03-12,Hassan Ali,Male,23,Sialkot,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000175,CUST0299,2025-11-10,Zain Malik,Male,25,Karachi,Electronics,Smart Watch,2,25000,0,50000,Debit Card
+TXN000176,CUST0080,2025-10-03,Noor Fatima,Female,37,Karachi,Home Appliances,Blender,2,9500,15,16150,Cash
+TXN000177,CUST0300,2025-11-20,Zain Malik,Male,49,islamabad,Electronics,Smartphone,1,90000,0,90000,JazzCash
+TXN000178,CUST0229,2025-01-19,Usman Ali,Male,35,Lahore,Office,External HDD,1,18000,5,17100,Debit Card
+TXN000179,CUST0014,2025-12-13,Ali Khan,Male,18,Multan,Accessories,Power Bank,5,6500,15,27625,Debit Card
+TXN000180,CUST0435,2025-05-18,Ali Khan,Male,35,Lahore,Electronics,Smartphone,4,90000,0,360000,Debit Card
+TXN000181,CUST0021,2025-04-26,Noor Fatima,Female,51,Lahore,Gaming,Gaming Keyboard,1,12000,10,10800,JazzCash
+TXN000182,CUST0109,2025-03-11,Laiba Khan,Female,34,Lahore,Accessories,Keyboard,4,4500,5,17100,Debit Card
+TXN000183,CUST0292,2025-10-01,Fatima Khan,Female,20,Rawalpindi,Electronics,Smart Watch,3,25000,15,63750,Cash
+TXN000184,CUST0408,2025-07-22,Maryam Iqbal,Female,35,Lahore,Accessories,Mouse,1,2500,0,2500,Debit Card
+TXN000185,CUST0204,2025-04-08,Hamza Shah,Male,18,Islamabad,Gaming,Gaming Keyboard,5,12000,20,48000,Credit Card
+TXN000186,CUST0083,2025-09-01,Ayesha Noor,Female,51,Multan,Accessories,USB Cable,1,1200,0,1200,Debit Card
+TXN000187,CUST0301,2025-02-22,Hassan Ali,Male,55,Lahore,Electronics,Smartphone,3,90000,10,243000,Debit Card
+TXN000188,CUST0346,2025-07-02,Noor Fatima,Female,56,Karachi,Home Appliances,Air Fryer,3,18000,0,54000,EasyPaisa
+TXN000189,CUST0230,2025-02-23,Ahmed Raza,Male,43,Rawalpindi,Accessories,Mouse,1,2500,0,2500,EasyPaisa
+TXN000190,CUST0262,2025-01-02,Abdullah Tariq,Male,34,Karachi,Electronics,Smart Watch,1,25000,10,22500,Cash
+TXN000191,CUST0418,2025-03-22,Umar Farooq,Male,29,Islamabad,Accessories,Mouse,1,2500,15,2125,credit card
+TXN000192,CUST0410,2025-04-08,Ali Khan,Male,39,Hyderabad,Electronics,Smart Watch,2,25000,10,45000,EasyPaisa
+TXN000193,CUST0220,2025-06-14,Hamza Shah,Male,52,Faisalabad,Gaming,Gaming Keyboard,5,12000,0,60000,Cash
+TXN000194,CUST0054,2025-04-15,Hassan Ali,Male,54,Karachi,Home Appliances,Vacuum Cleaner,1,26000,0,26000,Debit Card
+TXN000195,CUST0104,2025-06-06,Umar Farooq,Male,27,Rawalpindi,Accessories,USB Cable,1,1200,0,1200,Credit Card
+TXN000196,CUST0064,2025-02-15,Maryam Iqbal,Female,36,Rawalpindi,Accessories,Headphones,1,7000,0,7000,Credit Card
+TXN000197,CUST0248,2025-10-18,Noor Fatima,Female,57,Islamabad,Home Appliances,Blender,2,9500,5,18050,Debit Card
+TXN000198,CUST0159,2025-09-24,Abdullah Tariq,Male,18,Karachi,Gaming,PS Controller,2,18000,10,32400,Debit Card
+TXN000199,CUST0220,2025-02-27,Hamza Shah,Male,30,Karachi,Office,Webcam,1,9000,0,9000,Cash
+TXN000200,CUST0094,2025-11-28,Usman Ali,Male,23,Islamabad,Office,Webcam,1,9000,0,9000,Credit Card
+TXN000201,CUST0023,2025-12-18,Zain Malik,Male,24,Karachi,Gaming,Gaming Keyboard,1,12000,15,10200,JazzCash
+TXN000202,CUST0261,2025-08-13,Bilal Ahmed,Male,59,Islamabad,Accessories,USB Cable,1,1200,15,1020,Debit Card
+TXN000203,CUST0308,2025-06-25,Umar Farooq,Male,28,Quetta,Gaming,PS Controller,3,18000,5,51300,Credit Card
+TXN000204,CUST0428,2025-03-26,Sara Ahmed,Female,37,Karachi,Gaming,Gaming Mouse,1,6500,20,5200,Cash
+TXN000205,CUST0005,2025-10-23,Abdullah Tariq,Male,45,Karachi,Electronics,Smartphone,1,90000,10,81000,Debit Card
+TXN000206,CUST0068,2025-12-28,Laiba Khan,Female,26,Peshawar,Electronics,Smartphone,2,90000,10,162000,Cash
+TXN000207,CUST0012,2025-05-05,Umar Farooq,Male,56,Islamabad,Electronics,Smart Watch,3,25000,5,71250,Debit Card
+TXN000208,CUST0048,2025-06-19,,Female,27,Karachi,Gaming,Gaming Keyboard,5,12000,10,54000,JazzCash
+TXN000209,CUST0247,2025-07-16,Ayesha Noor,Female,39,Karachi,Accessories,Mouse,2,2500,5,4750,JazzCash
+TXN000210,CUST0398,2025-02-26,Hassan Ali,Male,31,Karachi,Home Appliances,Air Fryer,1,18000,20,14400,Credit Card
+TXN000211,CUST0050,2025-03-13,Maryam Iqbal,Female,33,Karachi,Accessories,Headphones,4,7000,10,25200,Cash
+TXN000212,CUST0211,2025-11-03,Abdullah Tariq,Male,21,Islamabad,Gaming,PS Controller,3,18000,15,45900,EasyPaisa
+TXN000213,CUST0089,2025-09-05,Bilal Ahmed,Male,34,Peshawar,Accessories,Power Bank,1,6500,0,6500,Debit Card
+TXN000214,CUST0019,2025-10-27,Bilal Ahmed,Male,44,Karachi,Gaming,Gaming Keyboard,3,12000,10,32400,JazzCash
+TXN000215,CUST0147,2025-12-15,Abdullah Tariq,Male,49,Karachi,Accessories,Mouse,4,2500,15,8500,Cash
+TXN000216,CUST0301,2025-04-10,Fatima Khan,Female,34,Karachi,Electronics,Tablet,2,70000,15,119000,EasyPaisa
+TXN000217,CUST0274,2025-04-15,Ahmed Raza,Male,56,Rawalpindi,Gaming,Gaming Mouse,1,6500,20,5200,Cash
+TXN000218,CUST0298,2025-03-03,Laiba Khan,Female,44,Faisalabad,Electronics,Smart Watch,1,25000,10,22500,Cash
+TXN000219,CUST0354,2025-09-11,Maryam Iqbal,Female,46,Sialkot,Home Appliances,Vacuum Cleaner,2,26000,0,52000,Cash
+TXN000220,CUST0068,2025-06-30,Sara Ahmed,Female,47,Lahore,Home Appliances,Vacuum Cleaner,4,26000,5,98800,Credit Card
+TXN000221,CUST0193,2025-10-28,Bilal Ahmed,Male,46,Hyderabad,Accessories,Mouse,2,2500,0,5000,Credit Card
+TXN000222,CUST0022,2025-04-07,Fatima Khan,Female,54,Rawalpindi,Electronics,Laptop,2,180000,5,342000,EasyPaisa
+TXN000223,CUST0280,2025-09-02,Ahmed Raza,Male,54,Multan,Accessories,Headphones,2,7000,0,14000,Cash
+TXN000224,CUST0155,2025-04-14,Bilal Ahmed,Male,47,Lahore,Electronics,Smart Watch,2,25000,10,45000,Cash
+TXN000225,CUST0161,2025-06-14,Bilal Ahmed,Male,56,Karachi,Electronics,Smart Watch,2,25000,5,47500,JazzCash
+TXN000226,CUST0333,2025-05-07,Abdullah Tariq,Male,31,Lahore,Electronics,Laptop,4,180000,20,576000,Cash
+TXN000227,CUST0074,2025-04-30,Maryam Iqbal,Female,27,Lahore,Home Appliances,Microwave,2,32000,10,57600,JazzCash
+TXN000228,CUST0023,2025-11-08,Fatima Khan,Female,32,Rawalpindi,Electronics,Smartphone,2,90000,0,180000,Debit Card
+TXN000229,CUST0101,2025-03-04,Sara Ahmed,Female,33,Islamabad,Home Appliances,Microwave,4,32000,5,121600,Cash
+TXN000230,CUST0390,2025-04-14,,Male,21,Lahore,Accessories,Power Bank,4,6500,0,26000,Cash
+TXN000231,CUST0264,2025-06-24,Laiba Khan,Female,33,Faisalabad,Accessories,Mouse,1,2500,10,2250,Credit Card
+TXN000232,CUST0435,2025-12-25,Bilal Ahmed,Male,28,Karachi,Home Appliances,Microwave,5,32000,0,160000,Credit Card
+TXN000233,CUST0299,2025-02-06,Ahmed Raza,Male,43,Sialkot,Electronics,Smartphone,3,90000,0,270000,EasyPaisa
+TXN000234,CUST0080,2025-09-02,Laiba Khan,Female,54,Karachi,Home Appliances,Vacuum Cleaner,5,26000,0,130000,Cash
+TXN000235,CUST0197,2025-05-21,Fatima Khan,Female,32,Lahore,Accessories,Headphones,1,7000,0,7000,Cash
+TXN000236,CUST0400,2025-04-16,Ayesha Noor,Female,23,Lahore,Electronics,Laptop,2,180000,5,342000,Debit Card
+TXN000237,CUST0380,2025-06-24,Fatima Khan,Female,34,Karachi,Home Appliances,Vacuum Cleaner,2,26000,0,52000,Cash
+TXN000238,CUST0319,2025-02-27,Ayesha Noor,Female,41,Islamabad,Electronics,Smart Watch,4,25000,0,100000,Debit Card
+TXN000239,CUST0101,2025-12-21,Abdullah Tariq,Male,58,Karachi,Accessories,Headphones,1,7000,10,6300,JazzCash
+TXN000240,CUST0413,2025-11-13,Fatima Khan,Female,19,Peshawar,Gaming,Gaming Mouse,2,6500,5,12350,Cash
+TXN000241,CUST0300,2025-07-10,Fatima Khan,Female,33,Hyderabad,Office,External HDD,4,18000,0,72000,Cash
+TXN000242,CUST0150,2025-10-02,Ali Khan,Male,43,Islamabad,Home Appliances,Vacuum Cleaner,1,26000,5,24700,Cash
+TXN000243,CUST0088,2025-11-07,Abdullah Tariq,Male,23,Islamabad,Electronics,Laptop,1,180000,0,180000,Cash
+TXN000244,CUST0233,2025-05-24,Hamza Shah,Male,34,Lahore,Gaming,Gaming Keyboard,1,12000,5,11400,JazzCash
+TXN000245,CUST0196,2025-03-14,Sara Ahmed,Female,29,Rawalpindi,Electronics,Smart Watch,2,25000,10,45000,Debit Card
+TXN000246,CUST0358,2025-05-05,Abdullah Tariq,Male,55,Faisalabad,Electronics,Smartphone,1,90000,0,90000,Credit Card
+TXN000247,CUST0371,2025-05-04,Abdullah Tariq,Male,24,Islamabad,Office,Webcam,3,9000,20,21600,JazzCash
+TXN000248,CUST0170,2025-11-07,Umar Farooq,Male,49,Peshawar,Accessories,Mouse,5,2500,5,11875,
+TXN000249,CUST0102,2025-06-22,Abdullah Tariq,Male,36,Karachi,Electronics,Smart Watch,3,25000,0,75000,Debit Card
+TXN000250,CUST0356,2025-11-02,Noor Fatima,Female,22,Islamabad,Home Appliances,Blender,2,9500,10,17100,Credit Card
+TXN000251,CUST0315,2025-03-23,Usman Ali,Male,49,Sialkot,Gaming,Gaming Mouse,1,6500,0,6500,Cash
+TXN000252,CUST0064,2025-04-22,Ayesha Noor,Female,55,Islamabad,Electronics,Smartphone,3,90000,0,270000,Cash
+TXN000253,CUST0251,2025-12-03,Zain Malik,Male,34,Rawalpindi,Gaming,Gaming Keyboard,1,12000,15,10200,Credit Card
+TXN000254,CUST0387,2025-01-03,Bilal Ahmed,Male,57,Rawalpindi,Office,Webcam,1,9000,0,9000,Cash
+TXN000255,CUST0103,2025-05-16,Maryam Iqbal,Female,40,Quetta,Home Appliances,Microwave,4,32000,0,128000,Cash
+TXN000256,CUST0080,2025-08-09,Zain Malik,Male,28,Lahore,Accessories,Headphones,3,7000,15,17850,JazzCash
+TXN000257,CUST0281,2025-01-11,Usman Ali,Male,43,Karachi,Electronics,Tablet,1,70000,0,70000,Cash
+TXN000258,CUST0300,2025-01-21,Bilal Ahmed,Male,29,Karachi,Office,Webcam,1,9000,0,9000,Credit Card
+TXN000259,CUST0338,2025-03-10,Hassan Ali,Male,59,Islamabad,Accessories,Keyboard,1,4500,10,4050,Credit Card
+TXN000260,CUST0062,2025-07-11,Ahmed Raza,Male,27,Rawalpindi,Electronics,Tablet,3,70000,5,199500,Credit Card
+TXN000261,CUST0406,2025-06-22,Maryam Iqbal,Female,58,Sialkot,Gaming,Gaming Keyboard,2,12000,0,24000,JazzCash
+TXN000262,CUST0022,2025-04-25,Zain Malik,Male,44,Islamabad,Electronics,Laptop,4,180000,0,720000,Debit Card
+TXN000263,CUST0019,2025-03-15,Abdullah Tariq,Male,35,Peshawar,Accessories,Keyboard,2,4500,0,9000,Credit Card
+TXN000264,CUST0269,2025-03-08,Noor Fatima,Female,43,Lahore,Home Appliances,Microwave,3,32000,10,86400,JazzCash
+TXN000265,CUST0245,2025-03-09,Maryam Iqbal,Female,32,Peshawar,Office,External HDD,2,18000,5,34200,Cash
+TXN000266,CUST0315,2025-08-31,Zain Malik,Male,49,Faisalabad,Electronics,Laptop,3,180000,15,459000,Cash
+TXN000267,CUST0352,2025-11-05,Zain Malik,Male,42,Karachi,Electronics,Tablet,1,70000,5,66500,Cash
+TXN000268,CUST0125,2025-08-31,Sara Ahmed,Female,41,Karachi,Office,Webcam,1,9000,0,9000,Cash
+TXN000269,CUST0408,2025-10-26,Umar Farooq,Male,23,Lahore,Electronics,Smart Watch,1,25000,15,21250,Credit Card
+TXN000270,CUST0022,2025-09-24,Sara Ahmed,Female,59,Rawalpindi,Home Appliances,Air Fryer,1,18000,5,17100,Cash
+TXN000271,CUST0128,2025-04-28,Sara Ahmed,Female,36,Karachi,Accessories,Headphones,1,7000,20,5600,Cash
+TXN000272,CUST0415,2025-07-08,Ali Khan,Male,37,Karachi,Accessories,Headphones,1,7000,0,7000,Debit Card
+TXN000273,CUST0055,2025-01-25,Fatima Khan,Female,41,Lahore,Gaming,Gaming Keyboard,3,12000,0,36000,Debit Card
+TXN000274,CUST0211,2025-03-08,Fatima Khan,Female,42,Islamabad,Gaming,Gaming Keyboard,1,12000,5,11400,Cash
+TXN000275,CUST0134,2025-12-27,Fatima Khan,Female,29,Islamabad,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000276,CUST0125,2025-09-23,Bilal Ahmed,Male,28,Lahore,Gaming,Gaming Mouse,2,6500,0,13000,Credit Card
+TXN000277,CUST0221,2025-08-05,Fatima Khan,Female,19,Rawalpindi,Electronics,Tablet,4,70000,10,252000,Credit Card
+TXN000278,CUST0234,2025-01-26,Laiba Khan,Female,43,Rawalpindi,Home Appliances,Blender,3,9500,15,24225,Cash
+TXN000279,CUST0368,2025-07-18,Ahmed Raza,Male,53,Karachi,Office,Printer,3,35000,10,94500,Debit Card
+TXN000280,CUST0093,2025-03-24,Bilal Ahmed,Male,28,Faisalabad,Electronics,Smart Watch,1,25000,0,25000,EasyPaisa
+TXN000281,CUST0395,2025-12-24,Laiba Khan,Female,52,Islamabad,Accessories,Keyboard,1,4500,0,4500,Debit Card
+TXN000282,CUST0151,2025-06-21,Hamza Shah,Male,20,Faisalabad,Electronics,Laptop,1,180000,10,162000,JazzCash
+TXN000283,CUST0232,2025-10-19,Fatima Khan,Female,55,Hyderabad,Home Appliances,Air Fryer,5,18000,5,85500,JazzCash
+TXN000284,CUST0295,2025-02-26,Laiba Khan,Female,32,Faisalabad,Electronics,Smart Watch,1,25000,5,23750,credit card
+TXN000285,CUST0174,2025-07-10,Noor Fatima,Female,41,Multan,Gaming,Gaming Mouse,4,6500,0,26000,Credit Card
+TXN000286,CUST0445,2025-05-26,Abdullah Tariq,Male,37,Lahore,Electronics,Tablet,1,70000,15,59500,Cash
+TXN000287,CUST0196,2025-09-25,Maryam Iqbal,Female,24,Lahore,Accessories,Keyboard,2,4500,0,9000,Cash
+TXN000288,CUST0352,2025-06-16,Bilal Ahmed,Male,25,Karachi,Electronics,Smartphone,1,90000,0,90000,JazzCash
+TXN000289,CUST0078,2025-07-15,Ayesha Noor,Female,21,Lahore,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN000290,CUST0273,2025-11-08,Maryam Iqbal,Female,33,Islamabad,Electronics,Smart Watch,1,25000,10,22500,Debit Card
+TXN000291,CUST0171,2025-09-21,Hassan Ali,Male,44,Karachi,Accessories,Headphones,1,7000,10,6300,Cash
+TXN000292,CUST0171,2025-03-18,Abdullah Tariq,Male,32,Karachi,Accessories,Keyboard,1,4500,5,4275,Debit Card
+TXN000293,CUST0353,2025-03-05,Usman Ali,Male,46,Islamabad,Electronics,Laptop,4,180000,0,720000,Cash
+TXN000294,CUST0363,2025-11-26,Umar Farooq,Male,35,Islamabad,Accessories,Keyboard,1,4500,5,4275,Debit Card
+TXN000295,CUST0397,2025-05-22,Hassan Ali,Male,53,Karachi,Home Appliances,Air Fryer,5,18000,0,90000,Cash
+TXN000296,CUST0121,2025-07-09,Bilal Ahmed,Male,56,Lahore,Electronics,Smartphone,1,90000,0,90000,Debit Card
+TXN000297,CUST0049,2025-08-09,Bilal Ahmed,Male,50,Faisalabad,Home Appliances,Blender,1,9500,10,8550,Cash
+TXN000298,CUST0163,2025-07-22,Fatima Khan,Female,52,Peshawar,Office,Printer,2,35000,0,70000,Credit Card
+TXN000299,CUST0364,2025-02-10,Fatima Khan,Female,56,Sialkot,Gaming,Gaming Mouse,1,6500,15,5525,Cash
+TXN000300,CUST0268,2025-10-03,Hassan Ali,Male,54,Lahore,Accessories,Mouse,2,2500,0,5000,Debit Card
+TXN000301,CUST0446,2025-10-07,Bilal Ahmed,Male,32,Faisalabad,Gaming,Gaming Mouse,2,6500,5,12350,Cash
+TXN000302,CUST0260,2025-05-07,Maryam Iqbal,Female,49,Faisalabad,Electronics,Smartphone,3,90000,0,270000,EasyPaisa
+TXN000303,CUST0450,2025-03-12,Usman Ali,Male,45,Faisalabad,Home Appliances,Vacuum Cleaner,2,26000,15,44200,JazzCash
+TXN000304,CUST0087,2025-02-12,Noor Fatima,Female,53,Islamabad,Office,Printer,1,35000,5,33250,Cash
+TXN000305,CUST0365,2025-02-04,Zain Malik,Male,30,Islamabad,Electronics,Smart Watch,2,25000,10,45000,Debit Card
+TXN000306,CUST0342,2025-07-29,Usman Ali,Male,21,Islamabad,Electronics,Smart Watch,2,25000,0,50000,JazzCash
+TXN000307,CUST0102,2025-05-23,Ayesha Noor,Female,35,Lahore,Gaming,Gaming Keyboard,2,12000,10,21600,Credit Card
+TXN000308,CUST0295,2025-10-17,Noor Fatima,Female,18,Lahore,Gaming,PS Controller,1,18000,0,18000,Cash
+TXN000309,CUST0049,2025-02-17,Abdullah Tariq,Male,46,Islamabad,Gaming,Gaming Keyboard,1,12000,0,12000,JazzCash
+TXN000310,CUST0254,2025-09-18,Hamza Shah,Male,23,Multan,Accessories,Power Bank,3,6500,5,18525,JazzCash
+TXN000311,CUST0330,2025-09-01,Ayesha Noor,Female,40,Hyderabad,Home Appliances,Vacuum Cleaner,1,26000,10,23400,Debit Card
+TXN000312,CUST0137,2025-03-21,Umar Farooq,Male,52,Lahore,Home Appliances,Vacuum Cleaner,1,26000,10,23400,Cash
+TXN000313,CUST0341,2025-09-18,Zain Malik,Male,54,Lahore,Home Appliances,Blender,3,9500,10,25650,Cash
+TXN000314,CUST0049,2025-01-21,Maryam Iqbal,Female,28,Multan,Accessories,Headphones,4,7000,0,28000,JazzCash
+TXN000315,CUST0354,2025-09-22,Umar Farooq,Male,45,Islamabad,Electronics,Smart Watch,1,25000,0,25000,credit card
+TXN000316,CUST0350,2025-08-09,Hassan Ali,Male,56,Islamabad,Electronics,Tablet,3,70000,10,189000,Cash
+TXN000317,CUST0378,2025-04-15,Hamza Shah,Male,29,Karachi,Gaming,PS Controller,1,18000,15,15300,Debit Card
+TXN000318,CUST0212,2025-02-08,Ayesha Noor,Female,19,Islamabad,Electronics,Tablet,5,70000,15,297500,Credit Card
+TXN000319,CUST0292,2025-10-02,Hassan Ali,Male,45,Karachi,Electronics,Smart Watch,5,25000,15,106250,Credit Card
+TXN000320,CUST0236,2025-05-04,Noor Fatima,Female,34,Faisalabad,Home Appliances,Blender,2,9500,10,17100,JazzCash
+TXN000321,CUST0290,2025-11-11,Noor Fatima,Female,57,Rawalpindi,Electronics,Smartphone,1,90000,5,85500,Debit Card
+TXN000322,CUST0223,2025-12-18,Umar Farooq,Male,28,Rawalpindi,Home Appliances,Vacuum Cleaner,4,26000,5,98800,JazzCash
+TXN000323,CUST0324,2025-08-26,Maryam Iqbal,Female,48,Peshawar,Office,Webcam,2,9000,0,18000,Debit Card
+TXN000324,CUST0012,2025-12-31,Hamza Shah,Male,57,Peshawar,Accessories,Keyboard,1,4500,0,4500,Cash
+TXN000325,CUST0059,2025-08-07,Noor Fatima,Female,43,Lahore,Accessories,Power Bank,1,6500,0,6500,EasyPaisa
+TXN000326,CUST0059,2025-01-11,Hassan Ali,Male,21,Islamabad,Office,External HDD,5,18000,15,76500,Credit Card
+TXN000327,CUST0015,2025-03-04,Usman Ali,Male,56,Lahore,Accessories,Keyboard,1,4500,5,4275,Debit Card
+TXN000328,CUST0297,2025-05-02,Fatima Khan,Female,38,Lahore,Home Appliances,Vacuum Cleaner,4,26000,15,88400,Cash
+TXN000329,CUST0118,2025-08-01,Ahmed Raza,Male,19,Islamabad,Electronics,Laptop,3,180000,0,540000,EasyPaisa
+TXN000330,CUST0289,2025-06-22,Umar Farooq,Male,36,Peshawar,Home Appliances,Blender,1,9500,5,9025,Credit Card
+TXN000331,CUST0216,2025-08-13,Usman Ali,Male,51,Karachi,Accessories,Headphones,1,7000,0,7000,Cash
+TXN000332,CUST0039,2025-03-24,Bilal Ahmed,Male,50,Lahore,Electronics,Smart Watch,4,25000,5,95000,Credit Card
+TXN000333,CUST0450,2025-05-30,Usman Ali,Male,31,Islamabad,Electronics,Smartphone,5,90000,15,382500,Debit Card
+TXN000334,CUST0348,2025-06-26,Fatima Khan,Female,38,Karachi,Electronics,Tablet,4,70000,0,280000,Cash
+TXN000335,CUST0361,2025-02-11,Fatima Khan,Female,51,Karachi,Electronics,Smart Watch,1,25000,20,20000,Cash
+TXN000336,CUST0290,2025-10-17,Ayesha Noor,Female,25,Faisalabad,Accessories,USB Cable,2,1200,20,1920,Cash
+TXN000337,CUST0345,2025-02-07,Abdullah Tariq,Male,22,Karachi,Accessories,Headphones,1,7000,5,6650,Cash
+TXN000338,CUST0180,2025-09-21,Abdullah Tariq,Male,31,Faisalabad,Home Appliances,Microwave,1,32000,0,32000,Debit Card
+TXN000339,CUST0417,2025-12-18,Hamza Shah,Male,22,Lahore,Electronics,Smart Watch,1,25000,5,23750,JazzCash
+TXN000340,CUST0350,2025-04-23,Maryam Iqbal,Female,59,Lahore,Accessories,Power Bank,4,6500,0,26000,Cash
+TXN000341,CUST0257,2025-04-04,Maryam Iqbal,Female,58,Faisalabad,Home Appliances,Air Fryer,1,18000,5,17100,EasyPaisa
+TXN000342,CUST0339,2025-02-11,Ali Khan,Male,49,Islamabad,Accessories,Power Bank,1,6500,5,6175,Credit Card
+TXN000343,CUST0216,2025-06-23,Ayesha Noor,Female,23,Faisalabad,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN000344,CUST0146,2025-03-15,Hamza Shah,Male,53,Karachi,Home Appliances,Vacuum Cleaner,1,26000,20,20800,JazzCash
+TXN000345,CUST0213,2025-11-10,Sara Ahmed,Female,56,Lahore,Electronics,Smart Watch,1,25000,15,21250,Debit Card
+TXN000346,CUST0238,2025-11-28,Noor Fatima,Female,40,Multan,Accessories,Headphones,1,7000,0,7000,Debit Card
+TXN000347,CUST0220,2025-03-11,,Male,51,Lahore,Electronics,Tablet,1,70000,5,66500,Debit Card
+TXN000348,CUST0159,2025-09-27,Laiba Khan,Female,57,Hyderabad,Office,Webcam,1,9000,15,7650,Debit Card
+TXN000349,CUST0076,2025-09-04,Ali Khan,Male,59,Rawalpindi,Gaming,Gaming Mouse,2,6500,5,12350,Debit Card
+TXN000350,CUST0349,2025-02-11,Noor Fatima,Female,27,Hyderabad,Gaming,PS Controller,2,18000,5,34200,Debit Card
+TXN000351,CUST0202,2025-12-01,Noor Fatima,Female,58,Faisalabad,Accessories,Power Bank,1,6500,0,6500,Cash
+TXN000352,CUST0205,2025-09-05,Maryam Iqbal,Female,43,Faisalabad,Electronics,Smartphone,2,90000,0,180000,Cash
+TXN000353,CUST0092,2025-03-11,Zain Malik,Male,42,Islamabad,Accessories,Mouse,1,2500,5,2375,EasyPaisa
+TXN000354,CUST0226,2025-10-15,Usman Ali,Male,56,Karachi,Office,Webcam,3,9000,5,25650,Cash
+TXN000355,CUST0221,2025-05-17,Noor Fatima,Female,30,Rawalpindi,Electronics,Smart Watch,1,25000,0,25000,Debit Card
+TXN000356,CUST0321,2025-06-29,Sara Ahmed,Female,30,Faisalabad,Electronics,Smart Watch,4,25000,10,90000,Cash
+TXN000357,CUST0195,2025-07-28,Ali Khan,Male,32,Rawalpindi,Electronics,Smart Watch,2,25000,10,45000,Credit Card
+TXN000358,CUST0063,2025-03-17,Ahmed Raza,Male,42,Karachi,Gaming,Gaming Mouse,4,6500,0,26000,Credit Card
+TXN000359,CUST0035,2025-12-23,Noor Fatima,Female,53,Lahore,Accessories,Mouse,2,2500,0,5000,JazzCash
+TXN000360,CUST0177,2025-07-09,Noor Fatima,Female,44,Lahore,Accessories,Headphones,3,7000,5,19950,Debit Card
+TXN000361,CUST0048,2025-09-06,Maryam Iqbal,Female,22,Lahore,Accessories,Power Bank,4,6500,5,24700,Debit Card
+TXN000362,CUST0426,2025-11-20,Ali Khan,Male,41,Lahore,Office,Webcam,3,9000,0,27000,Debit Card
+TXN000363,CUST0302,2025-07-11,Zain Malik,Male,47,Karachi,Electronics,Laptop,3,180000,0,540000,EasyPaisa
+TXN000364,CUST0050,2025-07-01,Ayesha Noor,Female,18,Karachi,Accessories,Mouse,1,2500,5,2375,Debit Card
+TXN000365,CUST0043,2025-09-01,Laiba Khan,Female,25,Rawalpindi,Home Appliances,Air Fryer,1,18000,0,18000,Cash
+TXN000366,CUST0226,2025-06-19,Noor Fatima,Female,33,Hyderabad,Electronics,Smartphone,4,90000,10,324000,Cash
+TXN000367,CUST0335,2025-09-08,Maryam Iqbal,Female,59,Lahore,Electronics,Smartphone,1,90000,0,90000,JazzCash
+TXN000368,CUST0423,2025-05-24,Zain Malik,Male,55,Rawalpindi,Electronics,Laptop,5,180000,0,900000,Credit Card
+TXN000369,CUST0113,2025-08-17,Laiba Khan,Female,58,Islamabad,Home Appliances,Blender,2,9500,0,19000,Debit Card
+TXN000370,CUST0291,2025-06-25,Abdullah Tariq,Male,43,Islamabad,Home Appliances,Vacuum Cleaner,1,26000,0,26000,Credit Card
+TXN000371,CUST0277,2025-12-12,Zain Malik,Male,55,Rawalpindi,Home Appliances,Microwave,5,32000,5,152000,Cash
+TXN000372,CUST0186,2025-01-06,Abdullah Tariq,Male,30,Rawalpindi,Accessories,Mouse,1,2500,0,2500,Debit Card
+TXN000373,CUST0340,2025-04-27,Zain Malik,Male,18,Lahore,Accessories,Power Bank,1,6500,0,6500,Credit Card
+TXN000374,CUST0267,2025-10-15,Noor Fatima,Female,45,Lahore,Electronics,Tablet,1,70000,10,63000,Debit Card
+TXN000375,CUST0425,2025-02-26,Zain Malik,Male,28,Karachi,Electronics,Smartphone,3,90000,10,243000,Cash
+TXN000376,CUST0269,2025-07-09,Usman Ali,Male,39,Lahore,Accessories,Mouse,3,2500,0,7500,Debit Card
+TXN000377,CUST0316,2025-09-08,Hamza Shah,Male,41,Karachi,Electronics,Tablet,1,70000,5,66500,Credit Card
+TXN000378,CUST0203,2025-06-06,Ahmed Raza,Male,41,Karachi,Office,External HDD,3,18000,0,54000,EasyPaisa
+TXN000379,CUST0016,2025-11-10,Umar Farooq,Male,53,Karachi,Accessories,Keyboard,1,4500,10,4050,Cash
+TXN000380,CUST0151,2025-04-26,Maryam Iqbal,Female,19,Karachi,Office,Webcam,5,9000,0,45000,
+TXN000381,CUST0315,2025-06-23,Abdullah Tariq,Male,25,Multan,Office,Printer,2,35000,0,70000,Credit Card
+TXN000382,CUST0245,2025-12-17,Ayesha Noor,Female,34,Karachi,Electronics,Tablet,3,70000,0,210000,Credit Card
+TXN000383,CUST0388,2025-01-04,Fatima Khan,Female,54,Islamabad,Office,Webcam,3,9000,15,22950,Cash
+TXN000384,CUST0236,2025-04-10,Umar Farooq,Male,24,Karachi,Gaming,Gaming Keyboard,2,12000,5,22800,JazzCash
+TXN000385,CUST0121,2025-08-14,Fatima Khan,Female,43,Karachi,Gaming,Gaming Keyboard,1,12000,0,12000,EasyPaisa
+TXN000386,CUST0042,2025-12-28,Ahmed Raza,Male,60,Karachi,Gaming,PS Controller,1,18000,5,17100,Cash
+TXN000387,CUST0189,2025-07-28,Usman Ali,Male,55,Rawalpindi,Accessories,Headphones,1,7000,10,6300,Credit Card
+TXN000388,CUST0134,2025-07-20,Usman Ali,Male,41,Karachi,Office,Webcam,4,9000,5,34200,Credit Card
+TXN000389,CUST0418,2025-09-28,Hamza Shah,Male,39,Quetta,Electronics,Smart Watch,2,25000,0,50000,Cash
+TXN000390,CUST0097,2025-03-10,Zain Malik,Male,30,Quetta,Gaming,Gaming Mouse,4,6500,10,23400,Cash
+TXN000391,CUST0205,2025-09-20,Hamza Shah,Male,41,Karachi,Electronics,Smartphone,1,90000,5,85500,Credit Card
+TXN000392,CUST0360,2025-03-08,Noor Fatima,Female,38,Faisalabad,Office,Webcam,2,9000,10,16200,Credit Card
+TXN000393,CUST0026,2025-11-26,Ayesha Noor,Female,31,Rawalpindi,Accessories,Keyboard,2,4500,5,8550,Credit Card
+TXN000394,CUST0338,2025-03-01,Maryam Iqbal,Female,53,Rawalpindi,Electronics,Smartphone,1,90000,20,72000,Cash
+TXN000395,CUST0022,2025-08-07,Laiba Khan,Female,20,Karachi,Electronics,Smart Watch,3,25000,5,71250,Debit Card
+TXN000396,CUST0406,2025-06-17,Ayesha Noor,Female,60,Islamabad,Accessories,Headphones,3,7000,0,21000,Debit Card
+TXN000397,CUST0177,2025-08-28,Ayesha Noor,Female,43,Hyderabad,Gaming,Gaming Mouse,3,6500,0,19500,Cash
+TXN000398,CUST0041,2025-08-10,Abdullah Tariq,Male,31,Lahore,Accessories,Power Bank,1,6500,0,6500,Debit Card
+TXN000399,CUST0124,2025-12-18,Hassan Ali,Male,52,Karachi,Accessories,Keyboard,2,4500,20,7200,JazzCash
+TXN000400,CUST0429,2025-05-13,Abdullah Tariq,Male,41,Karachi,Gaming,Gaming Keyboard,4,12000,0,48000,Credit Card
+TXN000401,CUST0230,2025-04-12,Sara Ahmed,Female,56,,Electronics,Smartphone,4,90000,0,360000,Debit Card
+TXN000402,CUST0066,2025-07-08,Umar Farooq,Male,23,Karachi,Electronics,Tablet,2,70000,15,119000,Cash
+TXN000403,CUST0069,2025-08-13,Abdullah Tariq,Male,26,islamabad,Electronics,Smart Watch,3,25000,0,75000,Debit Card
+TXN000404,CUST0411,2025-09-20,Hassan Ali,Male,35,Multan,Gaming,Gaming Keyboard,1,12000,10,10800,Debit Card
+TXN000405,CUST0235,2025-07-24,Abdullah Tariq,Male,31,Lahore,Gaming,PS Controller,1,18000,0,18000,JazzCash
+TXN000406,CUST0409,2025-02-22,Hamza Shah,Male,26,Quetta,Accessories,Keyboard,2,4500,0,9000,JazzCash
+TXN000407,CUST0260,2025-12-14,Umar Farooq,Male,50,Lahore,Office,Webcam,2,9000,0,18000,Cash
+TXN000408,CUST0181,2025-02-11,Zain Malik,Male,24,Hyderabad,Home Appliances,Microwave,1,32000,0,32000,Cash
+TXN000409,CUST0218,2025-02-07,Ahmed Raza,Male,33,Karachi,Accessories,Power Bank,1,6500,5,6175,Cash
+TXN000410,CUST0450,2025-02-01,Abdullah Tariq,Male,40,Lahore,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000411,CUST0435,2025-05-22,Noor Fatima,Female,25,Lahore,Accessories,Headphones,1,7000,5,6650,Cash
+TXN000412,CUST0021,2025-03-13,Noor Fatima,Female,46,Rawalpindi,Accessories,Mouse,4,2500,0,10000,Debit Card
+TXN000413,CUST0097,2025-07-08,Umar Farooq,Male,20,Rawalpindi,Home Appliances,Microwave,2,32000,15,54400,Cash
+TXN000414,CUST0423,2025-09-02,Umar Farooq,Male,59,Karachi,Home Appliances,Air Fryer,1,18000,0,18000,Credit Card
+TXN000415,CUST0148,2025-09-03,Usman Ali,Male,47,Rawalpindi,Gaming,Gaming Keyboard,1,12000,10,10800,Debit Card
+TXN000416,CUST0049,2025-12-18,Umar Farooq,Male,33,Faisalabad,Electronics,Smart Watch,1,25000,0,25000,EasyPaisa
+TXN000417,CUST0169,2025-03-17,Abdullah Tariq,Male,18,Multan,Electronics,Smart Watch,2,25000,5,47500,Debit Card
+TXN000418,CUST0090,2025-09-02,Fatima Khan,Female,44,Lahore,Accessories,Mouse,4,2500,0,10000,Debit Card
+TXN000419,CUST0325,2025-06-14,Hamza Shah,Male,32,Rawalpindi,Office,Webcam,1,9000,10,8100,Cash
+TXN000420,CUST0449,2025-07-24,Bilal Ahmed,Male,38,Karachi,Electronics,Smartphone,2,90000,5,171000,Credit Card
+TXN000421,CUST0338,2025-05-13,Usman Ali,Male,57,Karachi,Home Appliances,Blender,2,9500,0,19000,Debit Card
+TXN000422,CUST0330,2025-06-14,Fatima Khan,Female,32,Islamabad,Electronics,Laptop,5,180000,5,855000,Cash
+TXN000423,CUST0168,2025-09-04,Abdullah Tariq,Male,38,Hyderabad,Electronics,Smart Watch,2,25000,0,50000,Cash
+TXN000424,CUST0117,2025-05-14,Ahmed Raza,Male,25,Multan,Gaming,PS Controller,1,18000,0,18000,Cash
+TXN000425,CUST0357,2025-02-24,Bilal Ahmed,Male,37,Karachi,Home Appliances,Microwave,5,32000,0,160000,Cash
+TXN000426,CUST0175,2025-09-04,Hamza Shah,Male,48,Islamabad,Office,Printer,1,35000,10,31500,
+TXN000427,CUST0239,2025-02-09,Hassan Ali,Male,35,Sialkot,Electronics,Smartphone,4,90000,0,360000,Debit Card
+TXN000428,CUST0026,2025-05-28,Ayesha Noor,Female,33,Rawalpindi,Electronics,Smartphone,1,90000,0,90000,Debit Card
+TXN000429,CUST0070,2025-05-03,Abdullah Tariq,Male,54,Karachi,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000430,CUST0270,2025-04-04,Ahmed Raza,Male,60,Lahore,Electronics,Smartphone,2,90000,5,171000,Credit Card
+TXN000431,CUST0318,2025-11-30,Zain Malik,Male,28,Karachi,Electronics,Laptop,1,180000,0,180000,EasyPaisa
+TXN000432,CUST0195,2025-08-11,Umar Farooq,Male,23,Hyderabad,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000433,CUST0212,2025-12-06,Ayesha Noor,Female,49,Rawalpindi,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000434,CUST0371,2025-09-05,Ayesha Noor,Female,25,Quetta,Home Appliances,Air Fryer,4,18000,10,64800,Cash
+TXN000435,CUST0029,2025-03-29,Sara Ahmed,Female,32,Islamabad,Home Appliances,Air Fryer,1,18000,15,15300,Debit Card
+TXN000436,CUST0338,2025-01-04,Usman Ali,Male,23,Sialkot,Home Appliances,Blender,5,9500,0,47500,Debit Card
+TXN000437,CUST0334,2025-02-22,Ayesha Noor,Female,36,Lahore,Home Appliances,Microwave,2,32000,0,64000,Debit Card
+TXN000438,CUST0013,2025-03-29,Noor Fatima,Female,23,Karachi,Home Appliances,Air Fryer,5,18000,10,81000,Debit Card
+TXN000439,CUST0130,2025-10-16,Hassan Ali,Male,41,Lahore,Gaming,Gaming Keyboard,1,12000,5,11400,
+TXN000440,CUST0225,2025-01-15,Sara Ahmed,Female,52,Rawalpindi,Office,Printer,3,35000,15,89250,Cash
+TXN000441,CUST0283,2025-10-13,Umar Farooq,Male,46,Faisalabad,Electronics,Laptop,1,180000,0,180000,Debit Card
+TXN000442,CUST0288,2025-11-24,Usman Ali,Male,60,Islamabad,Accessories,USB Cable,1,1200,10,1080,Cash
+TXN000443,CUST0343,2025-12-15,Ali Khan,Male,18,Hyderabad,Gaming,Gaming Mouse,1,6500,5,6175,EasyPaisa
+TXN000444,CUST0003,2025-06-03,Fatima Khan,Female,33,Lahore,Accessories,Mouse,1,2500,20,2000,Credit Card
+TXN000445,CUST0350,2025-03-16,Laiba Khan,Female,25,Karachi,Electronics,Smartphone,1,90000,5,85500,Cash
+TXN000446,CUST0069,2025-12-25,Umar Farooq,Male,55,Karachi,Accessories,USB Cable,2,1200,15,2040,JazzCash
+TXN000447,CUST0395,2025-03-22,Zain Malik,Male,42,Islamabad,Office,Printer,1,35000,5,33250,Cash
+TXN000448,CUST0384,2025-03-02,Ahmed Raza,Male,29,Islamabad,Electronics,Tablet,5,70000,5,332500,Cash
+TXN000449,CUST0112,2025-05-11,Abdullah Tariq,Male,41,Faisalabad,Accessories,Keyboard,1,4500,5,4275,Debit Card
+TXN000450,CUST0420,2025-12-08,Ali Khan,Male,18,Lahore,Electronics,Smart Watch,1,25000,20,20000,Cash
+TXN000451,CUST0145,2025-03-11,Noor Fatima,Female,49,Islamabad,Accessories,USB Cable,4,1200,10,4320,Cash
+TXN000452,CUST0222,2025-08-28,Bilal Ahmed,Male,40,Islamabad,Gaming,Gaming Keyboard,1,12000,0,12000,Credit Card
+TXN000453,CUST0141,2025-12-11,Zain Malik,Male,40,Faisalabad,Electronics,Smart Watch,1,25000,0,25000,JazzCash
+TXN000454,CUST0309,2025-09-26,Sara Ahmed,Female,31,Karachi,Electronics,Smartphone,1,90000,10,81000,Cash
+TXN000455,CUST0339,2025-08-24,Hassan Ali,Male,37,Faisalabad,Electronics,Smart Watch,2,25000,0,50000,Debit Card
+TXN000456,CUST0268,2025-08-12,Laiba Khan,Female,26,Karachi,Home Appliances,Air Fryer,1,18000,10,16200,Credit Card
+TXN000457,CUST0149,2025-04-09,Ali Khan,Male,25,,Electronics,Smartphone,1,90000,0,90000,Credit Card
+TXN000458,CUST0153,2025-08-06,Umar Farooq,Male,59,Islamabad,Electronics,Tablet,2,70000,0,140000,Credit Card
+TXN000459,CUST0218,2025-12-17,Umar Farooq,Male,24,,Gaming,PS Controller,3,18000,15,45900,Debit Card
+TXN000460,CUST0251,2025-03-15,Ahmed Raza,Male,59,Rawalpindi,Office,External HDD,2,18000,5,34200,Cash
+TXN000461,CUST0290,2025-05-02,Usman Ali,Male,38,Rawalpindi,Home Appliances,Vacuum Cleaner,3,26000,0,78000,Cash
+TXN000462,CUST0431,2025-08-16,Ayesha Noor,Female,52,Faisalabad,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN000463,CUST0031,2025-01-29,Sara Ahmed,Female,36,Rawalpindi,Electronics,Smart Watch,2,25000,10,45000,Cash
+TXN000464,CUST0156,2025-04-14,Usman Ali,Male,28,Karachi,Accessories,USB Cable,3,1200,5,3420,Cash
+TXN000465,CUST0176,2025-06-19,Fatima Khan,Female,53,Lahore,Accessories,Keyboard,1,4500,10,4050,Cash
+TXN000466,CUST0216,2025-08-18,Laiba Khan,Female,21,Multan,Gaming,Gaming Mouse,1,6500,0,6500,Cash
+TXN000467,CUST0303,2025-04-26,Ahmed Raza,Male,30,Lahore,Electronics,Tablet,1,70000,0,70000,Cash
+TXN000468,CUST0300,2025-03-19,Umar Farooq,Male,48,Karachi,Accessories,USB Cable,5,1200,5,5700,Cash
+TXN000469,CUST0034,2025-11-12,Ali Khan,Male,47,Peshawar,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000470,CUST0450,2025-02-04,Umar Farooq,Male,46,Lahore,Electronics,Smart Watch,5,25000,5,118750,EasyPaisa
+TXN000471,CUST0308,2025-06-11,Ayesha Noor,Female,43,Lahore,Home Appliances,Vacuum Cleaner,3,26000,10,70200,Cash
+TXN000472,CUST0067,2025-02-07,Ahmed Raza,Male,35,Karachi,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000473,CUST0361,2025-11-19,Abdullah Tariq,Male,26,Karachi,Gaming,PS Controller,1,18000,10,16200,Debit Card
+TXN000474,CUST0205,2025-11-18,Abdullah Tariq,Male,55,Rawalpindi,Accessories,Keyboard,1,4500,10,4050,Credit Card
+TXN000475,CUST0027,2025-01-15,Ahmed Raza,Male,41,Islamabad,Electronics,Smartphone,5,90000,20,360000,JazzCash
+TXN000476,CUST0120,2025-09-01,Ayesha Noor,Female,39,Rawalpindi,Accessories,Mouse,3,2500,10,6750,JazzCash
+TXN000477,CUST0135,2025-05-03,Ayesha Noor,Female,27,Lahore,Office,Webcam,1,9000,20,7200,Cash
+TXN000478,CUST0445,2025-08-23,Sara Ahmed,Female,52,Karachi,Electronics,Smart Watch,1,25000,0,25000,Credit Card
+TXN000479,CUST0103,2025-02-15,Sara Ahmed,Female,53,Multan,Electronics,Laptop,1,180000,0,180000,JazzCash
+TXN000480,CUST0376,2025-06-27,Umar Farooq,Male,45,Peshawar,Accessories,Power Bank,1,6500,0,6500,EasyPaisa
+TXN000481,CUST0089,2025-07-16,Ali Khan,Male,28,Sialkot,Electronics,Smartphone,4,90000,5,342000,Cash
+TXN000482,CUST0290,2025-11-04,Bilal Ahmed,Male,54,Lahore,Accessories,Headphones,3,7000,0,21000,Cash
+TXN000483,CUST0090,2025-08-31,Fatima Khan,Female,60,Rawalpindi,Electronics,Smartphone,4,90000,5,342000,Debit Card
+TXN000484,CUST0199,2025-07-06,Hamza Shah,Male,31,Karachi,Electronics,Tablet,2,70000,10,126000,Credit Card
+TXN000485,CUST0198,2025-02-21,Bilal Ahmed,Male,41,Lahore,Accessories,Mouse,2,2500,0,5000,Credit Card
+TXN000486,CUST0170,2025-11-14,Laiba Khan,Female,53,Karachi,Electronics,Smart Watch,1,25000,0,25000,Debit Card
+TXN000487,CUST0192,2025-03-12,Zain Malik,Male,54,Multan,Electronics,Smartphone,1,90000,5,85500,Cash
+TXN000488,CUST0254,2025-05-06,Sara Ahmed,Female,49,Karachi,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN000489,CUST0389,2025-06-14,Maryam Iqbal,Female,44,Hyderabad,Electronics,Tablet,2,70000,0,140000,Credit Card
+TXN000490,CUST0286,2025-12-03,Noor Fatima,Female,24,Sialkot,Home Appliances,Blender,1,9500,0,9500,Credit Card
+TXN000491,CUST0083,2025-01-26,Ali Khan,Male,54,Faisalabad,Electronics,Tablet,3,70000,10,189000,Credit Card
+TXN000492,CUST0159,2025-05-23,Hassan Ali,Male,41,Sialkot,Gaming,Gaming Keyboard,1,12000,0,12000,Cash
+TXN000493,CUST0170,2025-12-27,Laiba Khan,Female,21,Hyderabad,Accessories,Keyboard,1,4500,20,3600,JazzCash
+TXN000494,CUST0021,2025-09-19,Zain Malik,Male,24,,Electronics,Tablet,1,70000,0,70000,Credit Card
+TXN000495,CUST0434,2025-07-28,Noor Fatima,Female,38,Multan,Accessories,Headphones,1,7000,0,7000,Debit Card
+TXN000496,CUST0396,2025-01-13,Bilal Ahmed,Male,32,Faisalabad,Home Appliances,Blender,3,9500,0,28500,JazzCash
+TXN000497,CUST0365,2025-09-09,Usman Ali,Male,36,,Office,External HDD,3,18000,10,48600,Debit Card
+TXN000498,CUST0300,2025-02-01,Noor Fatima,Female,54,Karachi,Gaming,Gaming Keyboard,2,12000,0,24000,Cash
+TXN000499,CUST0209,2025-04-10,Maryam Iqbal,Female,51,Faisalabad,Office,External HDD,1,18000,10,16200,Debit Card
+TXN000500,CUST0069,2025-08-19,Hamza Shah,Male,33,Karachi,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN000501,CUST0139,2025-05-31,Fatima Khan,Female,39,Lahore,Home Appliances,Blender,3,9500,15,24225,Cash
+TXN000502,CUST0334,2025-12-12,Hamza Shah,Male,42,Hyderabad,Accessories,Keyboard,1,4500,0,4500,JazzCash
+TXN000503,CUST0133,2025-09-15,Abdullah Tariq,Male,43,Karachi,Accessories,Power Bank,1,6500,0,6500,JazzCash
+TXN000504,CUST0180,2025-10-16,Zain Malik,Male,28,Multan,Home Appliances,Microwave,1,32000,15,27200,JazzCash
+TXN000505,CUST0066,2025-08-01,Usman Ali,Male,42,Faisalabad,Accessories,Headphones,1,7000,5,6650,Credit Card
+TXN000506,CUST0050,2025-10-08,Sara Ahmed,Female,33,Rawalpindi,Accessories,Keyboard,2,4500,0,9000,Credit Card
+TXN000507,CUST0335,2025-01-27,Ayesha Noor,Female,54,Rawalpindi,Gaming,Gaming Mouse,3,6500,0,19500,Cash
+TXN000508,CUST0221,2025-11-01,Ayesha Noor,Female,42,Lahore,Accessories,Mouse,2,2500,5,4750,EasyPaisa
+TXN000509,CUST0118,2025-12-19,Abdullah Tariq,Male,57,Lahore,Electronics,Tablet,4,70000,10,252000,Cash
+TXN000510,CUST0423,2025-12-09,Noor Fatima,Female,33,Rawalpindi,Accessories,Mouse,1,2500,15,2125,JazzCash
+TXN000511,CUST0401,2025-05-18,Usman Ali,Male,21,Lahore,Office,Printer,3,35000,5,99750,JazzCash
+TXN000512,CUST0062,2025-01-03,Hassan Ali,Male,27,Hyderabad,Accessories,Headphones,3,7000,0,21000,Credit Card
+TXN000513,CUST0054,2025-10-27,Ali Khan,Male,36,Peshawar,Accessories,Headphones,1,7000,5,6650,Cash
+TXN000514,CUST0387,2025-06-28,Usman Ali,Male,54,Karachi,Electronics,Smartphone,1,90000,5,85500,Debit Card
+TXN000515,CUST0054,2025-06-22,Hamza Shah,Male,31,Karachi,Electronics,Laptop,2,180000,10,324000,Debit Card
+TXN000516,CUST0166,2025-05-16,Fatima Khan,Female,52,Lahore,Accessories,Keyboard,3,4500,10,12150,Cash
+TXN000517,CUST0263,2025-09-09,Ahmed Raza,Male,43,Faisalabad,Accessories,Headphones,1,7000,10,6300,Cash
+TXN000518,CUST0314,2025-09-16,Zain Malik,Male,43,Peshawar,Home Appliances,Blender,1,9500,20,7600,Cash
+TXN000519,CUST0086,2025-12-17,Bilal Ahmed,Male,25,Sialkot,Gaming,Gaming Mouse,1,6500,0,6500,EasyPaisa
+TXN000520,CUST0114,2025-03-06,Abdullah Tariq,Male,59,Sialkot,Home Appliances,Vacuum Cleaner,1,26000,0,26000,EasyPaisa
+TXN000521,CUST0379,2025-09-25,Maryam Iqbal,Female,22,Faisalabad,Accessories,USB Cable,2,1200,5,2280,Credit Card
+TXN000522,CUST0216,2025-10-16,Usman Ali,Male,59,Karachi,Gaming,PS Controller,1,18000,5,17100,EasyPaisa
+TXN000523,CUST0308,2025-08-30,Abdullah Tariq,Male,30,Karachi,Accessories,Keyboard,1,4500,0,4500,Cash
+TXN000524,CUST0166,2025-08-29,Usman Ali,Male,56,Rawalpindi,Home Appliances,Air Fryer,3,18000,10,48600,Debit Card
+TXN000525,CUST0119,2025-05-03,Hassan Ali,Male,28,Multan,Home Appliances,Blender,1,9500,5,9025,Debit Card
+TXN000526,CUST0036,2025-03-06,Sara Ahmed,Female,42,Karachi,Electronics,Laptop,1,180000,5,171000,Credit Card
+TXN000527,CUST0004,2025-09-20,Bilal Ahmed,Male,22,Peshawar,Electronics,Smartphone,2,90000,20,144000,Debit Card
+TXN000528,CUST0299,2025-09-03,Sara Ahmed,Female,18,Rawalpindi,Accessories,Mouse,3,2500,0,7500,Cash
+TXN000529,CUST0002,2025-10-03,Sara Ahmed,Female,18,Hyderabad,Accessories,USB Cable,1,1200,0,1200,Cash
+TXN000530,CUST0112,2025-10-10,Umar Farooq,Male,45,Lahore,Electronics,Smart Watch,4,25000,0,100000,Cash
+TXN000531,CUST0042,2025-04-16,Fatima Khan,Female,33,Lahore,Accessories,Power Bank,2,6500,0,13000,Debit Card
+TXN000532,CUST0385,2025-10-13,Umar Farooq,Male,26,Faisalabad,Accessories,Keyboard,1,4500,0,4500,Debit Card
+TXN000533,CUST0247,2025-03-30,Bilal Ahmed,Male,60,Rawalpindi,Gaming,PS Controller,1,18000,0,18000,Debit Card
+TXN000534,CUST0033,2025-04-15,Sara Ahmed,Female,48,karachi,Home Appliances,Blender,2,9500,15,16150,Credit Card
+TXN000535,CUST0412,2025-07-28,Ayesha Noor,Female,22,Lahore,Accessories,Headphones,2,7000,10,12600,Cash
+TXN000536,CUST0053,2025-10-05,Usman Ali,Male,36,Lahore,Accessories,Keyboard,2,4500,15,7650,Credit Card
+TXN000537,CUST0234,2025-12-31,Hamza Shah,Male,38,Rawalpindi,Gaming,PS Controller,2,18000,5,34200,Credit Card
+TXN000538,CUST0331,2025-06-25,Ahmed Raza,Male,52,Lahore,Electronics,Laptop,1,180000,0,180000,credit card
+TXN000539,CUST0277,2025-01-23,Ayesha Noor,Female,45,Multan,Home Appliances,Vacuum Cleaner,3,26000,5,74100,EasyPaisa
+TXN000540,CUST0416,2025-03-03,Laiba Khan,Female,60,Peshawar,Office,Printer,2,35000,0,70000,Cash
+TXN000541,CUST0271,2025-05-16,Ayesha Noor,Female,22,Karachi,Gaming,PS Controller,3,18000,5,51300,JazzCash
+TXN000542,CUST0061,2025-02-24,Ayesha Noor,Female,32,Hyderabad,Accessories,Mouse,3,2500,0,7500,JazzCash
+TXN000543,CUST0167,2025-12-03,Hamza Shah,Male,45,Islamabad,Gaming,Gaming Keyboard,4,12000,0,48000,Cash
+TXN000544,CUST0135,2025-08-05,Sara Ahmed,Female,18,Karachi,Gaming,Gaming Mouse,1,6500,0,6500,Credit Card
+TXN000545,CUST0157,2025-05-08,Zain Malik,Male,33,Lahore,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000546,CUST0109,2025-10-21,Laiba Khan,Female,40,karachi,Electronics,Smart Watch,1,25000,20,20000,Debit Card
+TXN000547,CUST0369,2025-11-09,Laiba Khan,Female,51,Lahore,Office,External HDD,1,18000,15,15300,Credit Card
+TXN000548,CUST0125,2025-12-03,Abdullah Tariq,Male,60,Multan,Gaming,Gaming Mouse,1,6500,0,6500,JazzCash
+TXN000549,CUST0250,2025-03-08,Noor Fatima,Female,39,Islamabad,Office,Printer,1,35000,0,35000,Debit Card
+TXN000550,CUST0225,2025-01-23,Ahmed Raza,Male,19,Karachi,Electronics,Tablet,2,70000,10,126000,JazzCash
+TXN000551,CUST0078,2025-06-10,Maryam Iqbal,Female,47,Islamabad,Accessories,Power Bank,2,6500,5,12350,Debit Card
+TXN000552,CUST0265,2025-03-23,Zain Malik,Male,24,Quetta,Office,External HDD,1,18000,0,18000,Debit Card
+TXN000553,CUST0227,2025-06-02,Hamza Shah,Male,41,Lahore,Electronics,Smartphone,1,90000,5,85500,Credit Card
+TXN000554,CUST0003,2025-04-27,Ali Khan,Male,51,Peshawar,Electronics,Smart Watch,2,25000,10,45000,Credit Card
+TXN000555,CUST0343,2025-08-17,Sara Ahmed,Female,43,Lahore,Office,Webcam,2,9000,20,14400,EasyPaisa
+TXN000556,CUST0171,2025-04-18,Laiba Khan,Female,44,Peshawar,Office,Webcam,4,9000,15,30600,Credit Card
+TXN000557,CUST0379,2025-12-14,Bilal Ahmed,Male,20,Lahore,Home Appliances,Vacuum Cleaner,1,26000,10,23400,Cash
+TXN000558,CUST0210,2025-09-14,Hassan Ali,Male,23,Karachi,Electronics,Smartphone,2,90000,5,171000,Debit Card
+TXN000559,CUST0221,2025-11-28,Fatima Khan,Female,54,Multan,Accessories,Headphones,2,7000,10,12600,Cash
+TXN000560,CUST0238,2025-12-04,Abdullah Tariq,Male,24,Quetta,Accessories,USB Cable,3,1200,0,3600,Cash
+TXN000561,CUST0315,2025-07-07,Hamza Shah,Male,34,Faisalabad,Electronics,Tablet,2,70000,10,126000,Debit Card
+TXN000562,CUST0049,2025-04-29,Ahmed Raza,Male,50,Islamabad,Accessories,Mouse,2,2500,5,4750,Debit Card
+TXN000563,CUST0416,2025-11-14,Ahmed Raza,Male,33,Karachi,Gaming,PS Controller,1,18000,5,17100,Cash
+TXN000564,CUST0389,2025-02-23,Maryam Iqbal,Female,26,Rawalpindi,Electronics,Smart Watch,3,25000,5,71250,Credit Card
+TXN000565,CUST0144,2025-02-06,Fatima Khan,Female,50,Rawalpindi,Gaming,Gaming Mouse,3,6500,10,17550,Cash
+TXN000566,CUST0077,2025-07-10,Ayesha Noor,Female,30,Islamabad,Home Appliances,Air Fryer,1,18000,20,14400,Cash
+TXN000567,CUST0017,2025-03-14,Hamza Shah,Male,54,Lahore,Gaming,PS Controller,2,18000,15,30600,Cash
+TXN000568,CUST0447,2025-10-28,Zain Malik,Male,19,Islamabad,Electronics,Tablet,1,70000,10,63000,EasyPaisa
+TXN000569,CUST0196,2025-10-27,Ahmed Raza,Male,30,Karachi,Accessories,Headphones,3,7000,5,19950,Cash
+TXN000570,CUST0416,2025-09-02,Noor Fatima,Female,33,Hyderabad,Home Appliances,Air Fryer,1,18000,0,18000,Cash
+TXN000571,CUST0068,2025-08-12,Ayesha Noor,Female,33,Karachi,Electronics,Smart Watch,1,25000,20,20000,EasyPaisa
+TXN000572,CUST0356,2025-10-14,Maryam Iqbal,Female,30,Multan,Home Appliances,Vacuum Cleaner,2,26000,5,49400,Credit Card
+TXN000573,CUST0389,2025-11-25,Hassan Ali,Male,22,Islamabad,Gaming,Gaming Mouse,3,6500,0,19500,Credit Card
+TXN000574,CUST0058,2025-01-16,Ahmed Raza,Male,18,Lahore,Accessories,Keyboard,2,4500,10,8100,Cash
+TXN000575,CUST0387,2025-03-17,Usman Ali,Male,21,Islamabad,Electronics,Smart Watch,1,25000,5,23750,EasyPaisa
+TXN000576,CUST0171,2025-10-29,Sara Ahmed,Female,22,Islamabad,Home Appliances,Blender,2,9500,0,19000,JazzCash
+TXN000577,CUST0300,2025-10-11,Hamza Shah,Male,51,Lahore,Accessories,Keyboard,4,4500,0,18000,Debit Card
+TXN000578,CUST0324,2025-07-09,Zain Malik,Male,25,Lahore,Electronics,Smartphone,5,90000,20,360000,Cash
+TXN000579,CUST0323,2025-07-18,Zain Malik,Male,20,Peshawar,Electronics,Tablet,1,70000,10,63000,Cash
+TXN000580,CUST0239,2025-05-01,Ahmed Raza,Male,24,Islamabad,Electronics,Smartphone,2,90000,0,180000,EasyPaisa
+TXN000581,CUST0269,2025-11-26,Fatima Khan,Female,57,Lahore,Home Appliances,Blender,1,9500,15,8075,Credit Card
+TXN000582,CUST0205,2025-02-25,Noor Fatima,Female,41,Faisalabad,Electronics,Smartphone,1,90000,0,90000,JazzCash
+TXN000583,CUST0236,2025-02-11,Zain Malik,Male,46,Islamabad,Electronics,Smart Watch,1,25000,0,25000,Debit Card
+TXN000584,CUST0408,2025-02-23,Zain Malik,Male,40,Faisalabad,Electronics,Smart Watch,4,25000,10,90000,Cash
+TXN000585,CUST0011,2025-05-09,Maryam Iqbal,Female,57,Lahore,Accessories,Power Bank,3,6500,10,17550,Cash
+TXN000586,CUST0221,2025-03-23,Abdullah Tariq,Male,19,Lahore,Gaming,Gaming Mouse,2,6500,20,10400,Cash
+TXN000587,CUST0350,2025-02-12,Usman Ali,Male,37,Multan,Accessories,Keyboard,5,4500,0,22500,Debit Card
+TXN000588,CUST0253,2025-07-08,Usman Ali,Male,53,Karachi,Electronics,Smart Watch,1,25000,5,23750,JazzCash
+TXN000589,CUST0232,2025-06-13,Maryam Iqbal,Female,54,Multan,Electronics,Smart Watch,1,25000,5,23750,Credit Card
+TXN000590,CUST0220,2025-01-11,Usman Ali,Male,18,Islamabad,Electronics,Laptop,3,180000,0,540000,Cash
+TXN000591,CUST0393,2025-11-30,Bilal Ahmed,Male,44,LAHORE,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000592,CUST0314,2025-03-17,Maryam Iqbal,Female,33,Islamabad,Electronics,Smartphone,1,90000,0,90000,Debit Card
+TXN000593,CUST0011,2025-09-17,Ahmed Raza,Male,42,Karachi,Office,Printer,1,35000,0,35000,Cash
+TXN000594,CUST0388,2025-10-21,Usman Ali,Male,31,Islamabad,Electronics,Smartphone,1,90000,0,90000,EasyPaisa
+TXN000595,CUST0173,2025-01-28,Bilal Ahmed,Male,36,Islamabad,Gaming,Gaming Mouse,1,6500,10,5850,Debit Card
+TXN000596,CUST0109,2025-04-26,Maryam Iqbal,Female,32,islamabad,Accessories,Keyboard,2,4500,5,8550,Credit Card
+TXN000597,CUST0042,2025-07-08,Usman Ali,Male,40,Rawalpindi,Home Appliances,Microwave,2,32000,0,64000,Cash
+TXN000598,CUST0449,2025-12-05,Fatima Khan,Female,33,Rawalpindi,Home Appliances,Vacuum Cleaner,3,26000,0,78000,Debit Card
+TXN000599,CUST0264,2025-04-24,,Female,54,Rawalpindi,Home Appliances,Microwave,4,32000,5,121600,Debit Card
+TXN000600,CUST0306,2025-10-29,Sara Ahmed,Female,25,Islamabad,Electronics,Laptop,1,180000,0,180000,Debit Card
+TXN000601,CUST0244,2025-10-10,Zain Malik,Male,27,Karachi,Gaming,Gaming Keyboard,4,12000,5,45600,Credit Card
+TXN000602,CUST0108,2025-06-01,Abdullah Tariq,Male,21,Hyderabad,Electronics,Smartphone,2,90000,10,162000,Cash
+TXN000603,CUST0285,2025-07-11,Hamza Shah,Male,48,Karachi,Accessories,Mouse,1,2500,0,2500,Debit Card
+TXN000604,CUST0450,2025-05-21,Umar Farooq,Male,57,Karachi,Home Appliances,Air Fryer,2,18000,5,34200,EasyPaisa
+TXN000605,CUST0078,2025-01-10,Ahmed Raza,Male,20,Lahore,Electronics,Tablet,1,70000,5,66500,Credit Card
+TXN000606,CUST0011,2025-08-19,Fatima Khan,Female,37,Lahore,Electronics,Laptop,1,180000,0,180000,JazzCash
+TXN000607,CUST0269,2025-08-17,Laiba Khan,Female,19,Rawalpindi,Electronics,Tablet,1,70000,15,59500,Credit Card
+TXN000608,CUST0133,2025-06-21,Ahmed Raza,Male,56,Karachi,Accessories,Power Bank,3,6500,0,19500,Debit Card
+TXN000609,CUST0278,2025-04-27,Noor Fatima,Female,57,Islamabad,Gaming,PS Controller,3,18000,0,54000,JazzCash
+TXN000610,CUST0128,2025-11-06,Zain Malik,Male,41,Lahore,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000611,CUST0248,2025-05-06,Zain Malik,Male,36,Islamabad,Electronics,Smartphone,1,90000,15,76500,EasyPaisa
+TXN000612,CUST0259,2025-10-01,Zain Malik,Male,20,Islamabad,Home Appliances,Blender,1,9500,0,9500,Cash
+TXN000613,CUST0162,2025-07-17,Ali Khan,Male,30,Karachi,Office,Printer,1,35000,10,31500,Cash
+TXN000614,CUST0037,2025-03-30,Umar Farooq,Male,51,Karachi,Accessories,Keyboard,1,4500,0,4500,Credit Card
+TXN000615,CUST0420,2025-09-06,Sara Ahmed,Female,38,Karachi,Gaming,Gaming Keyboard,1,12000,15,10200,EasyPaisa
+TXN000616,CUST0229,2025-05-29,Zain Malik,Male,33,Islamabad,Gaming,Gaming Mouse,3,6500,5,18525,Debit Card
+TXN000617,CUST0391,2025-12-26,Bilal Ahmed,Male,34,Karachi,Accessories,USB Cable,2,1200,5,2280,EasyPaisa
+TXN000618,CUST0263,2025-02-16,Zain Malik,Male,54,Karachi,Accessories,USB Cable,1,1200,20,960,Cash
+TXN000619,CUST0200,2025-05-31,Ahmed Raza,Male,35,Rawalpindi,Home Appliances,Air Fryer,1,18000,20,14400,Credit Card
+TXN000620,CUST0068,2025-04-06,Zain Malik,Male,52,karachi,Electronics,Smart Watch,1,25000,10,22500,Credit Card
+TXN000621,CUST0362,2025-10-24,Abdullah Tariq,Male,51,Islamabad,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN000622,CUST0199,2025-02-20,Bilal Ahmed,Male,59,Lahore,Accessories,Power Bank,1,6500,0,6500,Debit Card
+TXN000623,CUST0057,2025-01-05,Ahmed Raza,Male,47,Multan,Gaming,Gaming Mouse,4,6500,0,26000,JazzCash
+TXN000624,CUST0448,2025-04-01,Laiba Khan,Female,46,Islamabad,Electronics,Laptop,1,180000,15,153000,Cash
+TXN000625,CUST0077,2025-11-02,Ayesha Noor,Female,57,Lahore,Electronics,Laptop,1,180000,0,180000,EasyPaisa
+TXN000626,CUST0070,2025-05-07,Abdullah Tariq,Male,19,Lahore,Home Appliances,Microwave,1,32000,0,32000,Credit Card
+TXN000627,CUST0322,2025-09-28,Zain Malik,Male,44,Hyderabad,Electronics,Tablet,2,70000,15,119000,JazzCash
+TXN000628,CUST0266,2025-11-14,Laiba Khan,Female,53,Islamabad,Electronics,Smartphone,1,90000,5,85500,Cash
+TXN000629,CUST0266,2025-01-27,Hamza Shah,Male,39,Karachi,Electronics,Smart Watch,1,25000,5,23750,Cash
+TXN000630,CUST0046,2025-07-09,Bilal Ahmed,Male,44,Islamabad,Gaming,Gaming Mouse,1,6500,5,6175,EasyPaisa
+TXN000631,CUST0248,2025-03-03,Sara Ahmed,Female,44,Karachi,Electronics,Tablet,1,70000,5,66500,Credit Card
+TXN000632,CUST0237,2025-04-28,Hassan Ali,Male,48,Karachi,Electronics,Tablet,3,70000,0,210000,JazzCash
+TXN000633,CUST0280,2025-02-08,Umar Farooq,Male,44,Islamabad,Electronics,Laptop,1,180000,10,162000,JazzCash
+TXN000634,CUST0239,2025-04-01,Bilal Ahmed,Male,40,Rawalpindi,Office,External HDD,3,18000,5,51300,Cash
+TXN000635,CUST0249,2025-05-07,Abdullah Tariq,Male,40,Lahore,Electronics,Tablet,3,70000,0,210000,Credit Card
+TXN000636,CUST0182,2025-04-02,Maryam Iqbal,Female,40,Rawalpindi,Home Appliances,Air Fryer,1,18000,15,15300,Credit Card
+TXN000637,CUST0279,2025-12-27,Usman Ali,Male,59,Karachi,Accessories,Keyboard,2,4500,0,9000,credit card
+TXN000638,CUST0413,2025-11-11,Noor Fatima,Female,60,Multan,Electronics,Tablet,1,70000,15,59500,JazzCash
+TXN000639,CUST0303,2025-10-04,Fatima Khan,Female,44,Islamabad,Electronics,Laptop,1,180000,10,162000,Cash
+TXN000640,CUST0136,2025-09-14,Zain Malik,Male,19,Karachi,Office,Printer,1,35000,0,35000,JazzCash
+TXN000641,CUST0406,2025-04-13,Abdullah Tariq,Male,57,Rawalpindi,Accessories,Power Bank,1,6500,15,5525,Cash
+TXN000642,CUST0221,2025-09-01,Bilal Ahmed,Male,46,Peshawar,Gaming,Gaming Keyboard,2,12000,0,24000,JazzCash
+TXN000643,CUST0091,2025-11-06,Hassan Ali,Male,45,Faisalabad,Electronics,Tablet,3,70000,10,189000,Cash
+TXN000644,CUST0158,2025-05-20,Ahmed Raza,Male,60,Multan,Electronics,Laptop,3,180000,5,513000,EasyPaisa
+TXN000645,CUST0218,2025-05-04,Maryam Iqbal,Female,51,Islamabad,Accessories,USB Cable,3,1200,5,3420,Credit Card
+TXN000646,CUST0126,2025-01-14,Hassan Ali,Male,50,Islamabad,Home Appliances,Microwave,4,32000,15,108800,Debit Card
+TXN000647,CUST0337,2025-12-20,Ahmed Raza,Male,49,Rawalpindi,Gaming,Gaming Keyboard,3,12000,0,36000,Cash
+TXN000648,CUST0010,2025-05-27,Noor Fatima,Female,54,Islamabad,Accessories,USB Cable,2,1200,10,2160,Debit Card
+TXN000649,CUST0074,2025-08-16,Ali Khan,Male,34,Karachi,Electronics,Tablet,1,70000,0,70000,JazzCash
+TXN000650,CUST0194,2025-07-24,Sara Ahmed,Female,24,Multan,Home Appliances,Blender,1,9500,0,9500,Credit Card
+TXN000651,CUST0023,2025-03-18,Ayesha Noor,Female,44,Islamabad,Electronics,Laptop,1,180000,10,162000,Cash
+TXN000652,CUST0431,2025-03-17,Bilal Ahmed,Male,25,Rawalpindi,Office,Printer,2,35000,0,70000,Credit Card
+TXN000653,CUST0113,2025-09-02,Hassan Ali,Male,51,Karachi,Accessories,USB Cable,1,1200,10,1080,EasyPaisa
+TXN000654,CUST0441,2025-02-11,Ali Khan,Male,55,Peshawar,Gaming,Gaming Keyboard,2,12000,15,20400,Credit Card
+TXN000655,CUST0313,2025-05-20,Ali Khan,Male,60,Faisalabad,Electronics,Smart Watch,3,25000,0,75000,Cash
+TXN000656,CUST0064,2025-09-08,Noor Fatima,Female,37,Rawalpindi,Electronics,Smart Watch,4,25000,0,100000,Debit Card
+TXN000657,CUST0209,2025-04-16,Zain Malik,Male,23,Sialkot,Home Appliances,Blender,2,9500,0,19000,Debit Card
+TXN000658,CUST0034,2025-12-20,Ali Khan,Male,34,Karachi,Accessories,USB Cable,5,1200,10,5400,JazzCash
+TXN000659,CUST0005,2025-05-27,Noor Fatima,Female,44,Rawalpindi,Home Appliances,Air Fryer,2,18000,10,32400,Cash
+TXN000660,CUST0399,2025-02-10,Noor Fatima,Female,43,Karachi,Electronics,Tablet,4,70000,10,252000,Credit Card
+TXN000661,CUST0107,2025-04-10,Usman Ali,Male,49,Rawalpindi,Accessories,Keyboard,4,4500,20,14400,EasyPaisa
+TXN000662,CUST0320,2025-08-11,Maryam Iqbal,Female,54,Karachi,Home Appliances,Air Fryer,3,18000,0,54000,Debit Card
+TXN000663,CUST0325,2025-11-11,Usman Ali,Male,26,Karachi,Home Appliances,Air Fryer,5,18000,0,90000,EasyPaisa
+TXN000664,CUST0023,2025-04-30,Sara Ahmed,Female,38,Islamabad,Office,External HDD,1,18000,0,18000,Cash
+TXN000665,CUST0198,2025-08-01,Usman Ali,Male,19,Karachi,Accessories,Keyboard,1,4500,10,4050,credit card
+TXN000666,CUST0138,2025-06-23,Fatima Khan,Female,40,Karachi,Electronics,Smartphone,1,90000,20,72000,Cash
+TXN000667,CUST0083,2025-09-20,Ahmed Raza,Male,50,Rawalpindi,Gaming,PS Controller,2,18000,5,34200,EasyPaisa
+TXN000668,CUST0118,2025-03-13,Zain Malik,Male,33,Peshawar,Electronics,Smartphone,3,90000,5,256500,Debit Card
+TXN000669,CUST0401,2025-04-02,Zain Malik,Male,27,Karachi,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000670,CUST0250,2025-06-30,Laiba Khan,Female,58,Rawalpindi,Home Appliances,Microwave,2,32000,5,60800,Credit Card
+TXN000671,CUST0039,2025-09-15,Maryam Iqbal,Female,28,Islamabad,Electronics,Laptop,1,180000,0,180000,Debit Card
+TXN000672,CUST0411,2025-01-21,Hamza Shah,Male,35,Islamabad,Gaming,PS Controller,2,18000,10,32400,JazzCash
+TXN000673,CUST0238,2025-06-16,Usman Ali,Male,50,Lahore,Electronics,Laptop,2,180000,5,342000,Debit Card
+TXN000674,CUST0334,2025-03-06,Usman Ali,Male,29,Hyderabad,Gaming,PS Controller,3,18000,0,54000,Debit Card
+TXN000675,CUST0260,2025-04-12,Ali Khan,Male,30,Islamabad,Gaming,PS Controller,2,18000,15,30600,Debit Card
+TXN000676,CUST0013,2025-10-13,Maryam Iqbal,Female,46,Hyderabad,Accessories,Headphones,2,7000,0,14000,Cash
+TXN000677,CUST0377,2025-01-03,Abdullah Tariq,Male,57,Karachi,Gaming,PS Controller,1,18000,5,17100,Cash
+TXN000678,CUST0412,2025-03-25,Ahmed Raza,Male,19,Multan,Electronics,Smartphone,1,90000,5,85500,Debit Card
+TXN000679,CUST0097,2025-12-16,Maryam Iqbal,Female,37,Rawalpindi,Accessories,Headphones,1,7000,5,6650,Cash
+TXN000680,CUST0240,2025-09-14,Abdullah Tariq,Male,33,Lahore,Accessories,Headphones,3,7000,0,21000,Credit Card
+TXN000681,CUST0268,2025-11-21,Ayesha Noor,Female,59,islamabad,Electronics,Tablet,2,70000,20,112000,Debit Card
+TXN000682,CUST0281,2025-03-14,Hamza Shah,Male,60,Karachi,Accessories,Keyboard,1,4500,0,4500,Cash
+TXN000683,CUST0416,2025-07-07,Bilal Ahmed,Male,20,Islamabad,Electronics,Smartphone,1,90000,5,85500,EasyPaisa
+TXN000684,CUST0211,2025-01-18,Sara Ahmed,Female,24,Multan,Gaming,PS Controller,2,18000,0,36000,credit card
+TXN000685,CUST0114,2025-04-21,Umar Farooq,Male,44,Lahore,Electronics,Smart Watch,1,25000,15,21250,Credit Card
+TXN000686,CUST0226,2025-04-19,Noor Fatima,Female,40,Peshawar,Accessories,USB Cable,1,1200,0,1200,Cash
+TXN000687,CUST0201,2025-10-25,Ayesha Noor,Female,25,Hyderabad,Office,Printer,3,35000,0,105000,Cash
+TXN000688,CUST0444,2025-11-12,Usman Ali,Male,55,Sialkot,Accessories,Headphones,1,7000,10,6300,Debit Card
+TXN000689,CUST0243,2025-07-09,Ahmed Raza,Male,32,Rawalpindi,Gaming,Gaming Mouse,3,6500,0,19500,Cash
+TXN000690,CUST0187,2025-09-24,Noor Fatima,Female,42,Islamabad,Gaming,PS Controller,3,18000,10,48600,Credit Card
+TXN000691,CUST0059,2025-03-26,Zain Malik,Male,37,Hyderabad,Gaming,Gaming Keyboard,1,12000,10,10800,Credit Card
+TXN000692,CUST0009,2025-11-08,Hassan Ali,Male,52,Sialkot,Office,Webcam,1,9000,0,9000,Cash
+TXN000693,CUST0255,2025-10-04,Zain Malik,Male,22,Islamabad,Home Appliances,Microwave,1,32000,0,32000,Cash
+TXN000694,CUST0133,2025-05-23,Bilal Ahmed,Male,42,Lahore,Accessories,Power Bank,1,6500,15,5525,Credit Card
+TXN000695,CUST0030,2025-01-18,Hamza Shah,Male,43,Islamabad,Home Appliances,Air Fryer,1,18000,0,18000,Debit Card
+TXN000696,CUST0380,2025-10-04,Ahmed Raza,Male,44,Sialkot,Accessories,Keyboard,1,4500,10,4050,Debit Card
+TXN000697,CUST0403,2025-02-25,Ahmed Raza,Male,36,Rawalpindi,Electronics,Laptop,1,180000,5,171000,Credit Card
+TXN000698,CUST0348,2025-10-30,Maryam Iqbal,Female,58,Hyderabad,Electronics,Laptop,2,180000,0,360000,Debit Card
+TXN000699,CUST0194,2025-07-12,Noor Fatima,Female,42,Rawalpindi,Gaming,Gaming Keyboard,2,12000,15,20400,Cash
+TXN000700,CUST0033,2025-07-28,Usman Ali,Male,50,Islamabad,Accessories,Keyboard,2,4500,5,8550,Debit Card
+TXN000701,CUST0326,2025-01-07,Ali Khan,Male,51,Lahore,Electronics,Tablet,5,70000,0,350000,Credit Card
+TXN000702,CUST0249,2025-04-09,Bilal Ahmed,Male,50,Karachi,Office,Webcam,1,9000,0,9000,Debit Card
+TXN000703,CUST0427,2025-06-24,Zain Malik,Male,59,Multan,Gaming,Gaming Keyboard,1,12000,5,11400,Cash
+TXN000704,CUST0312,2025-10-29,Usman Ali,Male,55,Karachi,Accessories,USB Cable,1,1200,0,1200,EasyPaisa
+TXN000705,CUST0206,2025-03-10,,Female,50,Karachi,Electronics,Tablet,1,70000,0,70000,EasyPaisa
+TXN000706,CUST0074,2025-10-19,Fatima Khan,Female,50,Lahore,Electronics,Smartphone,2,90000,0,180000,Cash
+TXN000707,CUST0030,2025-04-27,Hamza Shah,Male,30,Rawalpindi,Home Appliances,Microwave,2,32000,10,57600,JazzCash
+TXN000708,CUST0211,2025-08-18,Hamza Shah,Male,45,Rawalpindi,Electronics,Laptop,2,180000,5,342000,JazzCash
+TXN000709,CUST0415,2025-10-17,Hassan Ali,Male,42,Karachi,Home Appliances,Microwave,3,32000,0,96000,Credit Card
+TXN000710,CUST0400,2025-02-28,Laiba Khan,Female,47,Karachi,Accessories,Keyboard,5,4500,5,21375,JazzCash
+TXN000711,CUST0230,2025-12-02,Sara Ahmed,Female,49,Karachi,Electronics,Smart Watch,1,25000,5,23750,Credit Card
+TXN000712,CUST0101,2025-10-15,Hassan Ali,Male,51,Rawalpindi,Home Appliances,Vacuum Cleaner,2,26000,0,52000,Credit Card
+TXN000713,CUST0233,2025-11-21,Noor Fatima,Female,50,Lahore,Accessories,Keyboard,2,4500,5,8550,Debit Card
+TXN000714,CUST0347,2025-01-19,Fatima Khan,Female,39,Karachi,Electronics,Smartphone,1,90000,15,76500,Debit Card
+TXN000715,CUST0205,2025-11-20,Hassan Ali,Male,28,Islamabad,Office,Printer,2,35000,20,56000,Cash
+TXN000716,CUST0298,2025-08-10,Maryam Iqbal,Female,52,Islamabad,Gaming,PS Controller,2,18000,10,32400,Cash
+TXN000717,CUST0214,2025-03-28,Bilal Ahmed,Male,51,Lahore,Electronics,Smart Watch,1,25000,5,23750,JazzCash
+TXN000718,CUST0393,2025-09-11,Laiba Khan,Female,47,Multan,Accessories,Mouse,2,2500,0,5000,EasyPaisa
+TXN000719,CUST0138,2025-07-08,Ahmed Raza,Male,18,Faisalabad,Electronics,Laptop,5,180000,5,855000,Debit Card
+TXN000720,CUST0095,2025-11-11,Sara Ahmed,Female,39,Lahore,Office,External HDD,2,18000,0,36000,Cash
+TXN000721,CUST0397,2025-03-19,Laiba Khan,Female,34,Karachi,Accessories,USB Cable,1,1200,10,1080,Cash
+TXN000722,CUST0267,2025-08-08,Ahmed Raza,Male,58,Lahore,Electronics,Tablet,1,70000,5,66500,Cash
+TXN000723,CUST0010,2025-08-30,Noor Fatima,Female,31,Karachi,Accessories,Headphones,1,7000,5,6650,Credit Card
+TXN000724,CUST0358,2025-10-11,Ali Khan,Male,34,Faisalabad,Accessories,Mouse,1,2500,15,2125,Debit Card
+TXN000725,CUST0295,2025-05-09,Ahmed Raza,Male,32,Islamabad,Office,Printer,2,35000,0,70000,Cash
+TXN000726,CUST0143,2025-10-27,Fatima Khan,Female,21,Karachi,Electronics,Laptop,3,180000,10,486000,EasyPaisa
+TXN000727,CUST0005,2025-04-01,Fatima Khan,Female,22,Islamabad,Electronics,Smartphone,3,90000,15,229500,Debit Card
+TXN000728,CUST0371,2025-10-20,Umar Farooq,Male,21,Lahore,Electronics,Laptop,3,180000,5,513000,EasyPaisa
+TXN000729,CUST0156,2025-07-09,Hamza Shah,Male,22,Lahore,Accessories,Mouse,1,2500,0,2500,Credit Card
+TXN000730,CUST0404,2025-12-03,Abdullah Tariq,Male,49,Hyderabad,Gaming,PS Controller,2,18000,0,36000,Debit Card
+TXN000731,CUST0202,2025-05-29,Fatima Khan,Female,36,Karachi,Home Appliances,Microwave,2,32000,0,64000,Debit Card
+TXN000732,CUST0070,2025-11-05,Hassan Ali,Male,57,Islamabad,Gaming,PS Controller,2,18000,15,30600,Cash
+TXN000733,CUST0374,2025-09-22,Zain Malik,Male,33,Lahore,Electronics,Smartphone,2,90000,0,180000,Debit Card
+TXN000734,CUST0113,2025-01-02,Usman Ali,Male,51,Peshawar,Electronics,Laptop,3,180000,0,540000,Credit Card
+TXN000735,CUST0308,2025-08-03,Abdullah Tariq,Male,22,Faisalabad,Electronics,Tablet,5,70000,0,350000,EasyPaisa
+TXN000736,CUST0436,2025-01-13,Laiba Khan,Female,34,Karachi,Accessories,Mouse,1,2500,0,2500,Debit Card
+TXN000737,CUST0192,2025-01-21,Zain Malik,Male,57,Islamabad,Electronics,Smart Watch,4,25000,0,100000,Credit Card
+TXN000738,CUST0376,2025-02-03,Fatima Khan,Female,35,Rawalpindi,Accessories,USB Cable,1,1200,0,1200,EasyPaisa
+TXN000739,CUST0401,2025-05-30,Maryam Iqbal,Female,55,Karachi,Accessories,Power Bank,1,6500,10,5850,EasyPaisa
+TXN000740,CUST0005,2025-05-13,Maryam Iqbal,Female,30,Rawalpindi,Electronics,Smart Watch,2,25000,0,50000,Debit Card
+TXN000741,CUST0414,2025-07-24,Maryam Iqbal,Female,18,Hyderabad,Electronics,Tablet,3,70000,0,210000,Cash
+TXN000742,CUST0126,2025-04-18,Sara Ahmed,Female,38,Lahore,Accessories,Power Bank,3,6500,10,17550,Cash
+TXN000743,CUST0180,2025-05-31,Usman Ali,Male,49,Lahore,Home Appliances,Blender,4,9500,5,36100,EasyPaisa
+TXN000744,CUST0338,2025-01-26,Umar Farooq,Male,54,Lahore,Home Appliances,Microwave,1,32000,0,32000,Credit Card
+TXN000745,CUST0219,2025-07-11,Fatima Khan,Female,21,Islamabad,Electronics,Tablet,1,70000,15,59500,Debit Card
+TXN000746,CUST0218,2025-07-20,Noor Fatima,Female,32,Islamabad,Office,External HDD,2,18000,5,34200,Debit Card
+TXN000747,CUST0377,2025-05-20,Maryam Iqbal,Female,42,Peshawar,Electronics,Laptop,4,180000,0,720000,Debit Card
+TXN000748,CUST0056,2025-05-27,Maryam Iqbal,Female,46,Hyderabad,Electronics,Tablet,1,70000,5,66500,Debit Card
+TXN000749,CUST0407,2025-01-09,Sara Ahmed,Female,45,Peshawar,Gaming,PS Controller,2,18000,10,32400,JazzCash
+TXN000750,CUST0338,2025-10-05,Zain Malik,Male,41,Hyderabad,Electronics,Smartphone,3,90000,10,243000,Credit Card
+TXN000751,CUST0114,2025-08-11,Hamza Shah,Male,24,Islamabad,Accessories,USB Cable,1,1200,15,1020,EasyPaisa
+TXN000752,CUST0335,2025-03-13,Hamza Shah,Male,41,Quetta,Accessories,Power Bank,3,6500,5,18525,Debit Card
+TXN000753,CUST0062,2025-05-25,Ahmed Raza,Male,21,Quetta,Accessories,Headphones,1,7000,10,6300,Cash
+TXN000754,CUST0199,2025-04-18,Usman Ali,Male,49,Islamabad,Office,Printer,2,35000,15,59500,Cash
+TXN000755,CUST0342,2025-07-09,Fatima Khan,Female,33,Hyderabad,Office,Printer,1,35000,5,33250,Debit Card
+TXN000756,CUST0022,2025-05-24,Bilal Ahmed,Male,55,Multan,Electronics,Tablet,2,70000,5,133000,Debit Card
+TXN000757,CUST0168,2025-01-26,Noor Fatima,Female,38,Rawalpindi,Gaming,Gaming Keyboard,1,12000,0,12000,Credit Card
+TXN000758,CUST0111,2025-05-24,Ahmed Raza,Male,29,Lahore,Accessories,USB Cable,1,1200,20,960,Debit Card
+TXN000759,CUST0007,2025-11-16,Hassan Ali,Male,30,Multan,Gaming,PS Controller,3,18000,5,51300,Debit Card
+TXN000760,CUST0077,2025-02-20,Bilal Ahmed,Male,57,Lahore,Electronics,Smart Watch,1,25000,10,22500,Debit Card
+TXN000761,CUST0338,2025-12-10,Laiba Khan,Female,33,Faisalabad,Accessories,USB Cable,2,1200,0,2400,Cash
+TXN000762,CUST0047,2025-04-28,Abdullah Tariq,Male,56,Islamabad,Accessories,Headphones,2,7000,5,13300,Credit Card
+TXN000763,CUST0077,2025-11-07,Ayesha Noor,Female,33,Islamabad,Gaming,PS Controller,1,18000,10,16200,Cash
+TXN000764,CUST0154,2025-05-27,Sara Ahmed,Female,50,Lahore,Office,Webcam,2,9000,10,16200,Debit Card
+TXN000765,CUST0300,2025-12-10,Ali Khan,Male,37,Karachi,Gaming,PS Controller,2,18000,20,28800,EasyPaisa
+TXN000766,CUST0440,2025-12-23,Fatima Khan,Female,29,Karachi,Home Appliances,Vacuum Cleaner,2,26000,0,52000,EasyPaisa
+TXN000767,CUST0090,2025-09-20,Fatima Khan,Female,60,Islamabad,Gaming,Gaming Mouse,2,6500,5,12350,Debit Card
+TXN000768,CUST0177,2025-01-07,Maryam Iqbal,Female,36,Faisalabad,Home Appliances,Vacuum Cleaner,1,26000,0,26000,JazzCash
+TXN000769,CUST0390,2025-01-24,Hamza Shah,Male,54,Peshawar,Electronics,Tablet,2,70000,10,126000,Credit Card
+TXN000770,CUST0207,2025-03-09,Laiba Khan,Female,34,Karachi,Home Appliances,Vacuum Cleaner,2,26000,0,52000,Debit Card
+TXN000771,CUST0030,2025-01-27,Zain Malik,Male,51,Peshawar,Home Appliances,Air Fryer,1,18000,10,16200,EasyPaisa
+TXN000772,CUST0402,2025-12-03,Ahmed Raza,Male,45,Lahore,Accessories,Keyboard,1,4500,10,4050,Cash
+TXN000773,CUST0356,2025-03-06,Usman Ali,Male,37,Karachi,Electronics,Tablet,2,70000,0,140000,Credit Card
+TXN000774,CUST0243,2025-09-04,Usman Ali,Male,39,Rawalpindi,Accessories,Headphones,4,7000,5,26600,Debit Card
+TXN000775,CUST0141,2025-08-07,Zain Malik,Male,21,Karachi,Electronics,Smart Watch,4,25000,10,90000,Debit Card
+TXN000776,CUST0331,2025-02-02,Hamza Shah,Male,45,Islamabad,Home Appliances,Microwave,2,32000,10,57600,JazzCash
+TXN000777,CUST0015,2025-12-03,Umar Farooq,Male,23,LAHORE,Electronics,Smartphone,1,90000,10,81000,Debit Card
+TXN000778,CUST0239,2025-02-27,Noor Fatima,Female,20,Faisalabad,Home Appliances,Vacuum Cleaner,3,26000,10,70200,Credit Card
+TXN000779,CUST0227,2025-01-12,Maryam Iqbal,Female,28,Peshawar,Electronics,Tablet,1,70000,15,59500,Cash
+TXN000780,CUST0435,2025-01-04,Fatima Khan,Female,36,Multan,Home Appliances,Blender,1,9500,5,9025,Cash
+TXN000781,CUST0239,2025-10-21,Hamza Shah,Male,18,Multan,Office,Webcam,1,9000,0,9000,Cash
+TXN000782,CUST0267,2025-02-23,Zain Malik,Male,29,Hyderabad,Electronics,Laptop,2,180000,0,360000,Cash
+TXN000783,CUST0016,2025-01-24,Ali Khan,Male,37,Rawalpindi,Home Appliances,Blender,1,9500,5,9025,Debit Card
+TXN000784,CUST0436,2025-04-17,Noor Fatima,Female,45,Rawalpindi,Accessories,Mouse,1,2500,0,2500,Cash
+TXN000785,CUST0332,2025-12-07,Hamza Shah,Male,29,Islamabad,Gaming,PS Controller,3,18000,5,51300,
+TXN000786,CUST0278,2025-09-02,Fatima Khan,Female,51,Lahore,Electronics,Smart Watch,1,25000,20,20000,Cash
+TXN000787,CUST0376,2025-11-15,Umar Farooq,Male,54,Islamabad,Accessories,USB Cable,2,1200,0,2400,EasyPaisa
+TXN000788,CUST0096,2025-09-23,Bilal Ahmed,Male,56,Rawalpindi,Accessories,Power Bank,4,6500,10,23400,Cash
+TXN000789,CUST0365,2025-04-16,Umar Farooq,Male,25,Lahore,Accessories,USB Cable,1,1200,10,1080,Cash
+TXN000790,CUST0185,2025-03-23,Zain Malik,Male,32,Quetta,Electronics,Tablet,3,70000,0,210000,Debit Card
+TXN000791,CUST0128,2025-09-27,Ali Khan,Male,22,Rawalpindi,Accessories,Headphones,1,7000,15,5950,Debit Card
+TXN000792,CUST0307,2025-03-24,Usman Ali,Male,36,Peshawar,Electronics,Tablet,1,70000,5,66500,Cash
+TXN000793,CUST0174,2025-02-13,Laiba Khan,Female,38,Karachi,Electronics,Laptop,1,180000,20,144000,Debit Card
+TXN000794,CUST0230,2025-11-07,Zain Malik,Male,29,Lahore,Gaming,Gaming Keyboard,2,12000,10,21600,Cash
+TXN000795,CUST0264,2025-10-12,Ayesha Noor,Female,41,Multan,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000796,CUST0272,2025-10-23,Sara Ahmed,Female,57,Peshawar,Gaming,Gaming Mouse,1,6500,5,6175,Debit Card
+TXN000797,CUST0109,2025-08-17,Ali Khan,Male,39,Lahore,Office,Printer,1,35000,15,29750,Credit Card
+TXN000798,CUST0409,2025-11-08,Ahmed Raza,Male,21,Peshawar,Electronics,Laptop,1,180000,15,153000,JazzCash
+TXN000799,CUST0135,2025-11-20,Zain Malik,Male,28,Faisalabad,Home Appliances,Vacuum Cleaner,3,26000,15,66300,JazzCash
+TXN000800,CUST0234,2025-08-30,Hamza Shah,Male,42,Rawalpindi,Office,Printer,1,35000,5,33250,Cash
+TXN000801,CUST0142,2025-01-16,Maryam Iqbal,Female,31,Multan,Electronics,Smart Watch,3,25000,5,71250,JazzCash
+TXN000802,CUST0147,2025-06-01,Maryam Iqbal,Female,47,Lahore,Gaming,Gaming Keyboard,1,12000,15,10200,Credit Card
+TXN000803,CUST0265,2025-11-03,Ayesha Noor,Female,41,Faisalabad,Office,External HDD,3,18000,0,54000,Credit Card
+TXN000804,CUST0039,2025-07-24,Usman Ali,Male,38,Hyderabad,Electronics,Smart Watch,2,25000,0,50000,EasyPaisa
+TXN000805,CUST0421,2025-08-16,Noor Fatima,Female,60,Karachi,Gaming,PS Controller,1,18000,10,16200,Credit Card
+TXN000806,CUST0048,2025-08-28,Hassan Ali,Male,47,Karachi,Electronics,Laptop,2,180000,15,306000,Credit Card
+TXN000807,CUST0097,2025-11-24,Laiba Khan,Female,40,Lahore,Electronics,Smart Watch,1,25000,5,23750,Cash
+TXN000808,CUST0065,2025-12-11,Fatima Khan,Female,47,Lahore,Accessories,USB Cable,1,1200,10,1080,EasyPaisa
+TXN000809,CUST0394,2025-08-02,Sara Ahmed,Female,18,Rawalpindi,Electronics,Smart Watch,5,25000,5,118750,Cash
+TXN000810,CUST0145,2025-06-05,Umar Farooq,Male,44,Peshawar,Electronics,Tablet,1,70000,0,70000,Cash
+TXN000811,CUST0379,2025-05-12,Zain Malik,Male,58,Islamabad,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000812,CUST0010,2025-03-12,Abdullah Tariq,Male,39,Karachi,Electronics,Smart Watch,5,25000,5,118750,Debit Card
+TXN000813,CUST0253,2025-03-04,Ali Khan,Male,24,Karachi,Gaming,Gaming Keyboard,2,12000,5,22800,Debit Card
+TXN000814,CUST0370,2025-10-29,Umar Farooq,Male,46,Hyderabad,Accessories,USB Cable,2,1200,0,2400,Debit Card
+TXN000815,CUST0398,2025-08-05,Sara Ahmed,Female,31,Karachi,Gaming,PS Controller,3,18000,10,48600,Credit Card
+TXN000816,CUST0107,2025-11-07,Usman Ali,Male,60,Karachi,Home Appliances,Air Fryer,2,18000,5,34200,Credit Card
+TXN000817,CUST0126,2025-03-19,Usman Ali,Male,33,Lahore,Electronics,Tablet,4,70000,5,266000,Credit Card
+TXN000818,CUST0363,2025-01-05,Zain Malik,Male,33,Islamabad,Accessories,Keyboard,4,4500,0,18000,credit card
+TXN000819,CUST0173,2025-01-25,Fatima Khan,Female,51,Karachi,Accessories,Power Bank,3,6500,0,19500,Cash
+TXN000820,CUST0432,2025-12-20,Laiba Khan,Female,28,Islamabad,Gaming,Gaming Mouse,1,6500,0,6500,JazzCash
+TXN000821,CUST0160,2025-01-02,Zain Malik,Male,32,Islamabad,Home Appliances,Air Fryer,1,18000,10,16200,Cash
+TXN000822,CUST0280,2025-03-17,Maryam Iqbal,Female,38,Lahore,Accessories,USB Cable,5,1200,0,6000,Cash
+TXN000823,CUST0306,2025-08-18,Laiba Khan,Female,31,Lahore,Electronics,Tablet,2,70000,0,140000,Credit Card
+TXN000824,CUST0245,2025-02-28,Abdullah Tariq,Male,57,Karachi,Gaming,Gaming Keyboard,4,12000,15,40800,Cash
+TXN000825,CUST0024,2025-12-14,Abdullah Tariq,Male,26,Karachi,Accessories,Mouse,4,2500,15,8500,Credit Card
+TXN000826,CUST0424,2025-03-16,Hassan Ali,Male,31,Karachi,Gaming,Gaming Keyboard,3,12000,0,36000,Debit Card
+TXN000827,CUST0098,2025-09-17,Hassan Ali,Male,26,Lahore,Office,Webcam,1,9000,15,7650,Debit Card
+TXN000828,CUST0344,2025-06-02,Ayesha Noor,Female,47,Multan,Gaming,Gaming Keyboard,1,12000,5,11400,Cash
+TXN000829,CUST0102,2025-01-27,Noor Fatima,Female,36,Lahore,Home Appliances,Microwave,1,32000,0,32000,JazzCash
+TXN000830,CUST0429,2025-05-16,,Female,19,Faisalabad,Gaming,PS Controller,2,18000,10,32400,Cash
+TXN000831,CUST0096,2025-03-21,Abdullah Tariq,Male,19,Rawalpindi,Electronics,Smart Watch,2,25000,5,47500,Cash
+TXN000832,CUST0197,2025-12-24,Abdullah Tariq,Male,25,Islamabad,Home Appliances,Blender,4,9500,0,38000,Cash
+TXN000833,CUST0450,2025-05-24,Usman Ali,Male,50,Karachi,Electronics,Smart Watch,1,25000,10,22500,Cash
+TXN000834,CUST0234,2025-11-23,Ahmed Raza,Male,45,Karachi,Gaming,Gaming Mouse,1,6500,5,6175,EasyPaisa
+TXN000835,CUST0163,2025-01-08,Umar Farooq,Male,22,Islamabad,Accessories,Power Bank,5,6500,10,29250,Cash
+TXN000836,CUST0313,2025-06-30,Hassan Ali,Male,57,Islamabad,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000837,CUST0378,2025-04-15,Sara Ahmed,Female,47,Lahore,Electronics,Laptop,1,180000,0,180000,Cash
+TXN000838,CUST0347,2025-09-07,Hassan Ali,Male,44,Lahore,Electronics,Tablet,2,70000,0,140000,Credit Card
+TXN000839,CUST0051,2025-06-23,Abdullah Tariq,Male,27,Islamabad,Electronics,Smartphone,4,90000,10,324000,Cash
+TXN000840,CUST0413,2025-03-02,Noor Fatima,Female,59,Islamabad,Accessories,Power Bank,3,6500,0,19500,Credit Card
+TXN000841,CUST0149,2025-08-31,Fatima Khan,Female,36,Hyderabad,Accessories,Mouse,3,2500,10,6750,Cash
+TXN000842,CUST0386,2025-08-19,Laiba Khan,Female,24,Karachi,Accessories,Keyboard,1,4500,0,4500,EasyPaisa
+TXN000843,CUST0114,2025-01-21,Maryam Iqbal,Female,49,Faisalabad,Electronics,Smartphone,4,90000,0,360000,Credit Card
+TXN000844,CUST0355,2025-09-14,Ahmed Raza,Male,58,Islamabad,Accessories,USB Cable,2,1200,10,2160,Debit Card
+TXN000845,CUST0245,2025-11-26,Usman Ali,Male,45,Quetta,Accessories,Headphones,1,7000,0,7000,Cash
+TXN000846,CUST0339,2025-11-06,Ahmed Raza,Male,44,Karachi,Accessories,Headphones,3,7000,0,21000,Debit Card
+TXN000847,CUST0427,2025-01-03,Umar Farooq,Male,28,Karachi,Accessories,Power Bank,2,6500,5,12350,Debit Card
+TXN000848,CUST0350,2025-01-15,Bilal Ahmed,Male,60,Lahore,Electronics,Smartphone,2,90000,0,180000,Cash
+TXN000849,CUST0166,2025-09-09,Umar Farooq,Male,23,Karachi,Office,Printer,1,35000,0,35000,EasyPaisa
+TXN000850,CUST0020,2025-03-14,Hassan Ali,Male,35,karachi,Accessories,USB Cable,2,1200,15,2040,Cash
+TXN000851,CUST0180,2025-09-14,,Male,43,Rawalpindi,Gaming,Gaming Keyboard,2,12000,5,22800,JazzCash
+TXN000852,CUST0441,2025-08-19,Bilal Ahmed,Male,39,Karachi,Office,Webcam,1,9000,0,9000,JazzCash
+TXN000853,CUST0282,2025-10-16,Noor Fatima,Female,30,Lahore,Electronics,Smart Watch,1,25000,10,22500,Debit Card
+TXN000854,CUST0293,2025-09-19,Ahmed Raza,Male,47,Lahore,Accessories,Keyboard,5,4500,0,22500,Cash
+TXN000855,CUST0193,2025-01-18,Ali Khan,Male,18,Hyderabad,Accessories,Headphones,3,7000,5,19950,EasyPaisa
+TXN000856,CUST0343,2025-10-13,Usman Ali,Male,35,Karachi,Home Appliances,Vacuum Cleaner,5,26000,20,104000,Debit Card
+TXN000857,CUST0127,2025-04-14,,Male,32,Karachi,Office,External HDD,4,18000,0,72000,Cash
+TXN000858,CUST0296,2025-05-18,Usman Ali,Male,29,Faisalabad,Home Appliances,Blender,2,9500,0,19000,Debit Card
+TXN000859,CUST0195,2025-05-30,Zain Malik,Male,34,Rawalpindi,Accessories,Power Bank,2,6500,5,12350,Cash
+TXN000860,CUST0293,2025-03-03,Abdullah Tariq,Male,59,Lahore,Home Appliances,Air Fryer,4,18000,0,72000,Cash
+TXN000861,CUST0417,2025-05-25,Noor Fatima,Female,49,Karachi,Accessories,USB Cable,2,1200,5,2280,Cash
+TXN000862,CUST0393,2025-12-23,Hamza Shah,Male,50,Rawalpindi,Electronics,Smart Watch,3,25000,15,63750,Debit Card
+TXN000863,CUST0326,2025-07-27,Fatima Khan,Female,53,Islamabad,Gaming,Gaming Mouse,3,6500,10,17550,Cash
+TXN000864,CUST0404,2025-12-05,Usman Ali,Male,34,Islamabad,Gaming,Gaming Keyboard,4,12000,0,48000,Cash
+TXN000865,CUST0363,2025-01-16,Bilal Ahmed,Male,60,Faisalabad,Office,Webcam,1,9000,10,8100,Debit Card
+TXN000866,CUST0384,2025-12-08,Fatima Khan,Female,47,Islamabad,Accessories,Power Bank,2,6500,10,11700,Cash
+TXN000867,CUST0217,2025-07-06,Zain Malik,Male,44,Karachi,Accessories,Power Bank,2,6500,0,13000,Debit Card
+TXN000868,CUST0337,2025-10-12,Bilal Ahmed,Male,48,Quetta,Accessories,Mouse,1,2500,10,2250,Debit Card
+TXN000869,CUST0274,2025-07-05,Abdullah Tariq,Male,46,Islamabad,Home Appliances,Microwave,2,32000,10,57600,Cash
+TXN000870,CUST0345,2025-06-01,Sara Ahmed,Female,27,Faisalabad,Home Appliances,Air Fryer,2,18000,10,32400,Cash
+TXN000871,CUST0117,2025-09-18,Fatima Khan,Female,21,Karachi,Electronics,Tablet,1,70000,10,63000,JazzCash
+TXN000872,CUST0178,2025-07-21,Hamza Shah,Male,55,Islamabad,Electronics,Tablet,2,70000,5,133000,Debit Card
+TXN000873,CUST0060,2025-04-14,Noor Fatima,Female,44,Lahore,Gaming,Gaming Keyboard,3,12000,5,34200,Cash
+TXN000874,CUST0095,2025-10-30,Laiba Khan,Female,21,Faisalabad,Electronics,Tablet,4,70000,5,266000,Cash
+TXN000875,CUST0040,2025-12-27,Bilal Ahmed,Male,26,Lahore,Electronics,Smartphone,3,90000,0,270000,Debit Card
+TXN000876,CUST0375,2025-03-08,Umar Farooq,Male,24,Lahore,Office,Printer,1,35000,0,35000,Debit Card
+TXN000877,CUST0143,2025-11-09,Umar Farooq,Male,44,Sialkot,Accessories,USB Cable,1,1200,10,1080,Cash
+TXN000878,CUST0164,2025-07-22,Ayesha Noor,Female,28,Faisalabad,Office,Printer,1,35000,5,33250,Credit Card
+TXN000879,CUST0054,2025-04-10,Noor Fatima,Female,56,Sialkot,Electronics,Tablet,3,70000,5,199500,EasyPaisa
+TXN000880,CUST0258,2025-04-14,Noor Fatima,Female,39,Faisalabad,Accessories,Keyboard,1,4500,10,4050,Debit Card
+TXN000881,CUST0386,2025-12-06,Hassan Ali,Male,56,Hyderabad,Electronics,Laptop,1,180000,5,171000,Cash
+TXN000882,CUST0183,2025-08-25,Laiba Khan,Female,37,Hyderabad,Electronics,Smart Watch,1,25000,5,23750,Cash
+TXN000883,CUST0236,2025-12-31,Laiba Khan,Female,58,Multan,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000884,CUST0290,2025-06-28,Abdullah Tariq,Male,38,Multan,Electronics,Smartphone,3,90000,10,243000,Debit Card
+TXN000885,CUST0187,2025-06-20,Bilal Ahmed,Male,60,Faisalabad,Gaming,Gaming Mouse,5,6500,10,29250,Credit Card
+TXN000886,CUST0380,2025-08-31,Hassan Ali,Male,55,Lahore,Electronics,Laptop,1,180000,20,144000,Cash
+TXN000887,CUST0040,2025-05-05,Sara Ahmed,Female,36,Islamabad,Electronics,Laptop,4,180000,5,684000,Cash
+TXN000888,CUST0085,2025-07-19,Ayesha Noor,Female,52,Faisalabad,Gaming,Gaming Keyboard,1,12000,5,11400,Cash
+TXN000889,CUST0313,2025-12-17,Umar Farooq,Male,31,Karachi,Home Appliances,Microwave,1,32000,20,25600,Debit Card
+TXN000890,CUST0329,2025-12-07,Noor Fatima,Female,32,Islamabad,Gaming,PS Controller,2,18000,0,36000,JazzCash
+TXN000891,CUST0205,2025-06-23,Usman Ali,Male,36,Karachi,Accessories,Keyboard,1,4500,15,3825,Debit Card
+TXN000892,CUST0175,2025-04-11,Hamza Shah,Male,34,Faisalabad,Accessories,Keyboard,2,4500,15,7650,Credit Card
+TXN000893,CUST0217,2025-03-22,Ahmed Raza,Male,43,Faisalabad,Electronics,Smart Watch,1,25000,0,25000,Credit Card
+TXN000894,CUST0435,2025-02-07,Hamza Shah,Male,34,Faisalabad,Gaming,Gaming Mouse,1,6500,5,6175,Credit Card
+TXN000895,CUST0164,2025-11-26,Abdullah Tariq,Male,31,Islamabad,Accessories,Mouse,4,2500,0,10000,Cash
+TXN000896,CUST0003,2025-11-23,Usman Ali,Male,33,Karachi,Home Appliances,Microwave,1,32000,0,32000,EasyPaisa
+TXN000897,CUST0155,2025-10-07,Ali Khan,Male,28,Hyderabad,Electronics,Laptop,2,180000,0,360000,Cash
+TXN000898,CUST0369,2025-07-10,Fatima Khan,Female,39,Peshawar,Electronics,Laptop,2,180000,5,342000,JazzCash
+TXN000899,CUST0410,2025-01-11,Sara Ahmed,Female,40,Multan,Electronics,Smart Watch,4,25000,10,90000,Debit Card
+TXN000900,CUST0431,2025-02-20,Hassan Ali,Male,54,Peshawar,Accessories,Mouse,1,2500,5,2375,JazzCash
+TXN000901,CUST0025,2025-03-23,Ayesha Noor,Female,34,Lahore,Home Appliances,Microwave,2,32000,5,60800,Cash
+TXN000902,CUST0390,2025-01-30,Noor Fatima,Female,42,Karachi,Home Appliances,Air Fryer,2,18000,0,36000,Cash
+TXN000903,CUST0058,2025-03-02,Abdullah Tariq,Male,32,Multan,Home Appliances,Air Fryer,1,18000,10,16200,JazzCash
+TXN000904,CUST0196,2025-07-04,Umar Farooq,Male,21,Islamabad,Electronics,Laptop,1,180000,0,180000,Cash
+TXN000905,CUST0155,2025-03-07,Ali Khan,Male,47,Hyderabad,Home Appliances,Microwave,3,32000,0,96000,Cash
+TXN000906,CUST0186,2025-07-08,Fatima Khan,Female,35,Lahore,Home Appliances,Blender,1,9500,10,8550,Cash
+TXN000907,CUST0322,2025-10-17,Abdullah Tariq,Male,60,Faisalabad,Gaming,Gaming Mouse,1,6500,5,6175,Cash
+TXN000908,CUST0150,2025-10-18,Sara Ahmed,Female,45,Lahore,Electronics,Smart Watch,1,25000,5,23750,Cash
+TXN000909,CUST0415,2025-02-12,Hamza Shah,Male,18,Karachi,Electronics,Smartphone,1,90000,10,81000,Cash
+TXN000910,CUST0352,2025-07-15,Ahmed Raza,Male,28,Karachi,Office,Webcam,2,9000,0,18000,Debit Card
+TXN000911,CUST0045,2025-03-27,Usman Ali,Male,33,Islamabad,Office,Webcam,1,9000,5,8550,Cash
+TXN000912,CUST0285,2025-05-20,Ayesha Noor,Female,51,Faisalabad,Electronics,Smart Watch,1,25000,20,20000,JazzCash
+TXN000913,CUST0160,2025-01-10,Noor Fatima,Female,58,Multan,Electronics,Laptop,1,180000,0,180000,Cash
+TXN000914,CUST0260,2025-01-16,Sara Ahmed,Female,20,Islamabad,Gaming,PS Controller,3,18000,20,43200,Debit Card
+TXN000915,CUST0354,2025-07-10,Fatima Khan,Female,20,Multan,Gaming,PS Controller,1,18000,0,18000,Cash
+TXN000916,CUST0196,2025-06-21,Hamza Shah,Male,51,Multan,Electronics,Laptop,2,180000,10,324000,EasyPaisa
+TXN000917,CUST0272,2025-12-20,Laiba Khan,Female,52,Lahore,Electronics,Tablet,1,70000,20,56000,JazzCash
+TXN000918,CUST0087,2025-01-31,Hamza Shah,Male,47,Peshawar,Accessories,Mouse,1,2500,5,2375,Debit Card
+TXN000919,CUST0360,2025-12-21,Umar Farooq,Male,59,Rawalpindi,Home Appliances,Air Fryer,4,18000,0,72000,Cash
+TXN000920,CUST0157,2025-08-05,Ahmed Raza,Male,26,Multan,Accessories,Keyboard,2,4500,20,7200,Cash
+TXN000921,CUST0116,2025-06-05,Ayesha Noor,Female,41,Karachi,Gaming,Gaming Mouse,3,6500,0,19500,Cash
+TXN000922,CUST0053,2025-07-05,Ali Khan,Male,43,Peshawar,Gaming,Gaming Mouse,1,6500,20,5200,Debit Card
+TXN000923,CUST0072,2025-11-13,Hamza Shah,Male,26,Sialkot,Gaming,Gaming Mouse,3,6500,0,19500,JazzCash
+TXN000924,CUST0407,2025-02-22,Laiba Khan,Female,39,Multan,Electronics,Smart Watch,5,25000,5,118750,JazzCash
+TXN000925,CUST0289,2025-05-09,Umar Farooq,Male,53,Sialkot,Office,Printer,4,35000,0,140000,Credit Card
+TXN000926,CUST0438,2025-08-30,Ahmed Raza,Male,42,Faisalabad,Accessories,Headphones,1,7000,5,6650,Debit Card
+TXN000927,CUST0029,2025-11-16,Maryam Iqbal,Female,20,Lahore,Gaming,Gaming Keyboard,2,12000,0,24000,Cash
+TXN000928,CUST0076,2025-10-05,Hamza Shah,Male,47,Karachi,Accessories,Headphones,4,7000,10,25200,Debit Card
+TXN000929,CUST0241,2025-03-03,Ali Khan,Male,59,Karachi,Gaming,Gaming Mouse,1,6500,0,6500,Cash
+TXN000930,CUST0130,2025-01-22,Ayesha Noor,Female,54,Karachi,Electronics,Tablet,1,70000,10,63000,JazzCash
+TXN000931,CUST0069,2025-05-21,Ayesha Noor,Female,37,Multan,Electronics,Tablet,1,70000,0,70000,Debit Card
+TXN000932,CUST0347,2025-04-23,Ali Khan,Male,49,Karachi,Accessories,Power Bank,2,6500,0,13000,Cash
+TXN000933,CUST0268,2025-05-21,Sara Ahmed,Female,56,Rawalpindi,Accessories,Headphones,1,7000,0,7000,Cash
+TXN000934,CUST0036,2025-08-14,Bilal Ahmed,Male,25,Islamabad,Electronics,Smart Watch,1,25000,0,25000,Debit Card
+TXN000935,CUST0325,2025-03-24,Fatima Khan,Female,26,Lahore,Accessories,Headphones,5,7000,5,33250,Credit Card
+TXN000936,CUST0293,2025-10-23,Ayesha Noor,Female,37,islamabad,Electronics,Smartphone,3,90000,10,243000,JazzCash
+TXN000937,CUST0372,2025-05-01,Umar Farooq,Male,40,Multan,Electronics,Tablet,3,70000,0,210000,Cash
+TXN000938,CUST0374,2025-04-15,Zain Malik,Male,40,Islamabad,Electronics,Smart Watch,1,25000,10,22500,EasyPaisa
+TXN000939,CUST0325,2025-08-09,Maryam Iqbal,Female,28,Lahore,Electronics,Smartphone,1,90000,0,90000,EasyPaisa
+TXN000940,CUST0020,2025-01-24,Laiba Khan,Female,58,Sialkot,Accessories,USB Cable,1,1200,20,960,EasyPaisa
+TXN000941,CUST0009,2025-09-05,Ahmed Raza,Male,28,Lahore,Gaming,Gaming Keyboard,4,12000,0,48000,Debit Card
+TXN000942,CUST0356,2025-06-30,Ali Khan,Male,23,Faisalabad,Electronics,Smart Watch,4,25000,10,90000,JazzCash
+TXN000943,CUST0203,2025-02-11,Sara Ahmed,Female,35,Islamabad,Accessories,Mouse,1,2500,5,2375,Cash
+TXN000944,CUST0390,2025-11-12,Umar Farooq,Male,53,Faisalabad,Accessories,Power Bank,3,6500,0,19500,Debit Card
+TXN000945,CUST0244,2025-08-29,Fatima Khan,Female,59,Karachi,Home Appliances,Blender,2,9500,5,18050,EasyPaisa
+TXN000946,CUST0377,2025-04-06,Noor Fatima,Female,40,Lahore,Accessories,Power Bank,1,6500,15,5525,EasyPaisa
+TXN000947,CUST0350,2025-01-10,Hassan Ali,Male,41,Peshawar,Accessories,Power Bank,2,6500,5,12350,Cash
+TXN000948,CUST0072,2025-09-21,Ahmed Raza,Male,24,Multan,Home Appliances,Vacuum Cleaner,2,26000,10,46800,Credit Card
+TXN000949,CUST0111,2025-03-02,Umar Farooq,Male,36,Karachi,Accessories,Power Bank,2,6500,5,12350,Debit Card
+TXN000950,CUST0311,2025-07-21,Umar Farooq,Male,42,Multan,Electronics,Smartphone,3,90000,0,270000,Credit Card
+TXN000951,CUST0046,2025-09-18,Bilal Ahmed,Male,38,Multan,Electronics,Smartphone,5,90000,0,450000,Credit Card
+TXN000952,CUST0214,2025-09-09,Maryam Iqbal,Female,43,Islamabad,Accessories,USB Cable,2,1200,20,1920,Debit Card
+TXN000953,CUST0263,2025-07-10,Usman Ali,Male,46,karachi,Electronics,Smartphone,4,90000,10,324000,Debit Card
+TXN000954,CUST0216,2025-09-07,Fatima Khan,Female,33,Faisalabad,Electronics,Smartphone,1,90000,10,81000,Credit Card
+TXN000955,CUST0448,2025-09-07,Sara Ahmed,Female,22,Rawalpindi,Home Appliances,Blender,1,9500,5,9025,Credit Card
+TXN000956,CUST0002,2025-02-26,Usman Ali,Male,19,Rawalpindi,Electronics,Tablet,2,70000,5,133000,Debit Card
+TXN000957,CUST0351,2025-06-11,Hamza Shah,Male,33,Islamabad,Accessories,Headphones,2,7000,0,14000,Credit Card
+TXN000958,CUST0348,2025-01-16,Hassan Ali,Male,29,Faisalabad,Electronics,Laptop,4,180000,20,576000,Cash
+TXN000959,CUST0428,2025-10-29,Abdullah Tariq,Male,60,Multan,Home Appliances,Blender,2,9500,10,17100,Cash
+TXN000960,CUST0329,2025-05-25,Laiba Khan,Female,44,Lahore,Electronics,Smart Watch,4,25000,5,95000,Cash
+TXN000961,CUST0162,2025-08-28,Ahmed Raza,Male,56,Karachi,Gaming,PS Controller,1,18000,0,18000,Cash
+TXN000962,CUST0144,2025-10-20,Hamza Shah,Male,29,Karachi,Office,Webcam,1,9000,5,8550,JazzCash
+TXN000963,CUST0267,2025-02-07,Maryam Iqbal,Female,47,Sialkot,Electronics,Smart Watch,1,25000,10,22500,
+TXN000964,CUST0313,2025-06-08,Hassan Ali,Male,59,Quetta,Office,External HDD,3,18000,5,51300,Cash
+TXN000965,CUST0252,2025-09-28,Fatima Khan,Female,59,Karachi,Accessories,Mouse,1,2500,5,2375,Credit Card
+TXN000966,CUST0355,2025-01-10,Fatima Khan,Female,40,Hyderabad,Accessories,USB Cable,2,1200,0,2400,JazzCash
+TXN000967,CUST0338,2025-11-29,Abdullah Tariq,Male,30,Hyderabad,Office,External HDD,3,18000,10,48600,Cash
+TXN000968,CUST0199,2025-01-06,Abdullah Tariq,Male,52,Karachi,Electronics,Smart Watch,3,25000,5,71250,Cash
+TXN000969,CUST0156,2025-11-06,Umar Farooq,Male,53,Islamabad,Electronics,Smart Watch,2,25000,0,50000,JazzCash
+TXN000970,CUST0338,2025-11-29,Ali Khan,Male,30,Karachi,Accessories,Power Bank,5,6500,0,32500,Cash
+TXN000971,CUST0292,2025-05-06,Ali Khan,Male,33,Islamabad,Gaming,PS Controller,1,18000,15,15300,Cash
+TXN000972,CUST0054,2025-02-21,Sara Ahmed,Female,38,Sialkot,Electronics,Tablet,2,70000,5,133000,Cash
+TXN000973,CUST0395,2025-05-01,Noor Fatima,Female,53,Islamabad,Electronics,Smartphone,3,90000,0,270000,Cash
+TXN000974,CUST0279,2025-02-11,Zain Malik,Male,22,Lahore,Electronics,Smart Watch,1,25000,15,21250,Cash
+TXN000975,CUST0368,2025-09-25,Sara Ahmed,Female,28,Rawalpindi,Electronics,Smartphone,2,90000,10,162000,Cash
+TXN000976,CUST0163,2025-04-08,Sara Ahmed,Female,56,LAHORE,Electronics,Smart Watch,3,25000,15,63750,Debit Card
+TXN000977,CUST0245,2025-03-09,Umar Farooq,Male,28,Lahore,Accessories,Power Bank,1,6500,10,5850,Cash
+TXN000978,CUST0389,2025-10-14,Zain Malik,Male,47,Karachi,Home Appliances,Blender,1,9500,0,9500,Cash
+TXN000979,CUST0151,2025-07-11,Sara Ahmed,Female,18,Karachi,Accessories,Mouse,1,2500,15,2125,Cash
+TXN000980,CUST0250,2025-01-04,Laiba Khan,Female,56,Karachi,Electronics,Tablet,1,70000,5,66500,Cash
+TXN000981,CUST0251,2025-12-25,Maryam Iqbal,Female,35,Faisalabad,Home Appliances,Vacuum Cleaner,2,26000,5,49400,Cash
+TXN000982,CUST0041,2025-07-28,Hassan Ali,Male,31,LAHORE,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN000983,CUST0318,2025-07-30,Noor Fatima,Female,33,Hyderabad,Accessories,Power Bank,2,6500,20,10400,Cash
+TXN000984,CUST0425,2025-05-20,Sara Ahmed,Female,38,Multan,Electronics,Laptop,1,180000,5,171000,Credit Card
+TXN000985,CUST0356,2025-09-15,Umar Farooq,Male,39,Rawalpindi,Electronics,Laptop,1,180000,0,180000,Debit Card
+TXN000986,CUST0101,2025-04-01,Bilal Ahmed,Male,21,Hyderabad,Accessories,Power Bank,4,6500,0,26000,Debit Card
+TXN000987,CUST0366,2025-12-04,Sara Ahmed,Female,55,Karachi,Office,Webcam,2,9000,5,17100,Debit Card
+TXN000988,CUST0207,2025-02-17,Hamza Shah,Male,60,Rawalpindi,Office,Printer,4,35000,0,140000,Credit Card
+TXN000989,CUST0393,2025-09-07,Laiba Khan,Female,45,Islamabad,Electronics,Tablet,1,70000,10,63000,Cash
+TXN000990,CUST0376,2025-01-31,Zain Malik,Male,39,Faisalabad,Office,Printer,2,35000,20,56000,Cash
+TXN000991,CUST0256,2025-08-06,Ali Khan,Male,41,Rawalpindi,Accessories,Headphones,2,7000,0,14000,Debit Card
+TXN000992,CUST0415,2025-10-22,Bilal Ahmed,Male,51,Quetta,Office,Webcam,2,9000,10,16200,JazzCash
+TXN000993,CUST0047,2025-08-11,Fatima Khan,Female,28,Islamabad,Accessories,Power Bank,1,6500,5,6175,Cash
+TXN000994,CUST0008,2025-07-04,Hassan Ali,Male,30,Quetta,Accessories,Headphones,2,7000,0,14000,Cash
+TXN000995,CUST0188,2025-12-09,Ali Khan,Male,52,Hyderabad,Electronics,Laptop,4,180000,20,576000,Cash
+TXN000996,CUST0430,2025-11-29,Umar Farooq,Male,59,Faisalabad,Home Appliances,Air Fryer,1,18000,10,16200,JazzCash
+TXN000997,CUST0187,2025-10-02,Sara Ahmed,Female,55,Rawalpindi,Accessories,Mouse,2,2500,15,4250,Debit Card
+TXN000998,CUST0301,2025-08-18,Noor Fatima,Female,37,,Accessories,Mouse,1,2500,0,2500,EasyPaisa
+TXN000999,CUST0069,2025-02-19,Ayesha Noor,Female,54,Multan,Office,Webcam,1,9000,0,9000,JazzCash
+TXN001000,CUST0278,2025-12-17,Laiba Khan,Female,59,Karachi,Gaming,Gaming Mouse,2,6500,10,11700,Cash
+TXN001001,CUST0235,2025-10-23,Hassan Ali,Male,50,Islamabad,Electronics,Laptop,2,180000,15,306000,JazzCash
+TXN001002,CUST0159,2025-12-23,Ayesha Noor,Female,49,Karachi,Gaming,Gaming Keyboard,1,12000,20,9600,Cash
+TXN001003,CUST0107,2025-05-25,Abdullah Tariq,Male,21,Lahore,Home Appliances,Air Fryer,2,18000,15,30600,Debit Card
+TXN001004,CUST0252,2025-07-22,Noor Fatima,Female,58,Peshawar,Gaming,Gaming Mouse,1,6500,10,5850,Credit Card
+TXN001005,CUST0127,2025-01-02,Bilal Ahmed,Male,30,Faisalabad,Gaming,PS Controller,1,18000,5,17100,JazzCash
+TXN001006,CUST0307,2025-01-10,Umar Farooq,Male,54,Multan,Office,Webcam,4,9000,10,32400,Credit Card
+TXN001007,CUST0449,2025-10-31,Fatima Khan,Female,28,Peshawar,Electronics,Smart Watch,2,25000,5,47500,Credit Card
+TXN001008,CUST0166,2025-04-04,Ahmed Raza,Male,50,Islamabad,Accessories,Headphones,5,7000,15,29750,Credit Card
+TXN001009,CUST0263,2025-07-14,Sara Ahmed,Female,46,Karachi,Electronics,Laptop,3,180000,20,432000,Cash
+TXN001010,CUST0048,2025-11-11,Laiba Khan,Female,43,Peshawar,Electronics,Tablet,1,70000,15,59500,Credit Card
+TXN001011,CUST0123,2025-06-17,Sara Ahmed,Female,23,Sialkot,Electronics,Smart Watch,5,25000,15,106250,Credit Card
+TXN001012,CUST0363,2025-10-02,Maryam Iqbal,Female,32,Lahore,Electronics,Tablet,2,70000,10,126000,Cash
+TXN001013,CUST0434,2025-09-15,Zain Malik,Male,22,Islamabad,Gaming,PS Controller,1,18000,0,18000,JazzCash
+TXN001014,CUST0239,2025-02-17,Usman Ali,Male,21,Lahore,Office,Printer,2,35000,5,66500,Cash
+TXN001015,CUST0065,2025-09-20,Ayesha Noor,Female,29,Karachi,Accessories,Mouse,2,2500,10,4500,Cash
+TXN001016,CUST0100,2025-11-11,Bilal Ahmed,Male,44,Rawalpindi,Home Appliances,Microwave,4,32000,0,128000,Cash
+TXN001017,CUST0134,2025-12-02,Umar Farooq,Male,23,Hyderabad,Electronics,Tablet,1,70000,15,59500,Credit Card
+TXN001018,CUST0293,2025-08-29,Fatima Khan,Female,52,Faisalabad,Gaming,Gaming Mouse,3,6500,5,18525,Credit Card
+TXN001019,CUST0420,2025-03-29,Ayesha Noor,Female,60,Rawalpindi,Electronics,Tablet,1,70000,5,66500,Credit Card
+TXN001020,CUST0287,2025-02-08,Usman Ali,Male,52,Hyderabad,Gaming,Gaming Keyboard,1,12000,15,10200,Cash
+TXN001021,CUST0309,2025-06-02,Ayesha Noor,Female,60,,Gaming,Gaming Keyboard,3,12000,5,34200,EasyPaisa
+TXN001022,CUST0363,2025-05-02,Ali Khan,Male,59,Karachi,Accessories,Keyboard,3,4500,15,11475,Debit Card
+TXN001023,CUST0289,2025-06-18,Laiba Khan,Female,46,Karachi,Accessories,Keyboard,1,4500,20,3600,Debit Card
+TXN001024,CUST0357,2025-08-15,Ahmed Raza,Male,55,Islamabad,Accessories,Mouse,1,2500,0,2500,EasyPaisa
+TXN001025,CUST0048,2025-06-18,Noor Fatima,Female,58,Karachi,Gaming,PS Controller,1,18000,0,18000,Debit Card
+TXN001026,CUST0163,2025-01-31,Usman Ali,Male,21,Islamabad,Accessories,Mouse,1,2500,20,2000,Debit Card
+TXN001027,CUST0166,2025-02-27,Laiba Khan,Female,35,Islamabad,Accessories,Headphones,2,7000,5,13300,EasyPaisa
+TXN001028,CUST0108,2025-07-19,Abdullah Tariq,Male,23,Islamabad,Gaming,Gaming Keyboard,1,12000,0,12000,Cash
+TXN001029,CUST0443,2025-09-02,Zain Malik,Male,27,Peshawar,Electronics,Laptop,1,180000,15,153000,Cash
+TXN001030,CUST0362,2025-02-07,Bilal Ahmed,Male,37,Karachi,Gaming,PS Controller,1,18000,0,18000,Credit Card
+TXN001031,CUST0283,2025-10-01,Bilal Ahmed,Male,40,Multan,Electronics,Smartphone,1,90000,0,90000,Debit Card
+TXN001032,CUST0235,2025-08-23,Noor Fatima,Female,42,Lahore,Electronics,Smartphone,1,90000,5,85500,Debit Card
+TXN001033,CUST0129,2025-05-30,Usman Ali,Male,47,karachi,Gaming,Gaming Keyboard,2,12000,0,24000,Cash
+TXN001034,CUST0164,2025-06-04,Hamza Shah,Male,55,Faisalabad,Home Appliances,Vacuum Cleaner,2,26000,0,52000,credit card
+TXN001035,CUST0124,2025-11-21,Noor Fatima,Female,45,Karachi,Office,External HDD,3,18000,0,54000,EasyPaisa
+TXN001036,CUST0431,2025-07-04,Fatima Khan,Female,39,Karachi,Electronics,Laptop,1,180000,10,162000,Debit Card
+TXN001037,CUST0382,2025-03-16,Fatima Khan,Female,24,Islamabad,Accessories,Mouse,1,2500,20,2000,Cash
+TXN001038,CUST0194,2025-09-28,Zain Malik,Male,40,Lahore,Electronics,Smart Watch,1,25000,0,25000,Credit Card
+TXN001039,CUST0141,2025-08-25,Ali Khan,Male,57,Lahore,Gaming,Gaming Keyboard,5,12000,5,57000,Debit Card
+TXN001040,CUST0061,2025-07-30,Fatima Khan,Female,21,Islamabad,Home Appliances,Vacuum Cleaner,2,26000,0,52000,Debit Card
+TXN001041,CUST0216,2025-01-13,Abdullah Tariq,Male,21,Faisalabad,Home Appliances,Vacuum Cleaner,4,26000,20,83200,Credit Card
+TXN001042,CUST0343,2025-11-22,Sara Ahmed,Female,22,Karachi,Electronics,Laptop,5,180000,20,720000,EasyPaisa
+TXN001043,CUST0393,2025-11-03,Abdullah Tariq,Male,58,Islamabad,Office,Webcam,4,9000,20,28800,EasyPaisa
+TXN001044,CUST0297,2025-05-14,Ahmed Raza,Male,49,Quetta,Electronics,Laptop,2,180000,10,324000,Debit Card
+TXN001045,CUST0177,2025-06-29,Bilal Ahmed,Male,47,Karachi,Office,External HDD,1,18000,15,15300,Cash
+TXN001046,CUST0042,2025-12-25,Ali Khan,Male,40,Lahore,Electronics,Smartphone,2,90000,0,180000,Debit Card
+TXN001047,CUST0409,2025-06-29,Laiba Khan,Female,29,Islamabad,Accessories,Headphones,1,7000,0,7000,EasyPaisa
+TXN001048,CUST0022,2025-05-10,Abdullah Tariq,Male,53,Karachi,Gaming,Gaming Mouse,5,6500,5,30875,EasyPaisa
+TXN001049,CUST0177,2025-03-27,Zain Malik,Male,47,Multan,Gaming,Gaming Keyboard,1,12000,5,11400,Debit Card
+TXN001050,CUST0372,2025-05-06,Abdullah Tariq,Male,48,Lahore,Electronics,Smart Watch,4,25000,5,95000,Credit Card
+TXN001051,CUST0032,2025-12-05,Laiba Khan,Female,34,Multan,Accessories,Keyboard,3,4500,0,13500,Debit Card
+TXN001052,CUST0159,2025-04-18,Maryam Iqbal,Female,19,Karachi,Home Appliances,Microwave,2,32000,5,60800,Cash
+TXN001053,CUST0004,2025-06-17,Ayesha Noor,Female,50,Karachi,Accessories,Keyboard,3,4500,5,12825,EasyPaisa
+TXN001054,CUST0202,2025-01-01,Hamza Shah,Male,47,Faisalabad,Electronics,Smart Watch,2,25000,20,40000,Cash
+TXN001055,CUST0399,2025-04-12,Laiba Khan,Female,56,Islamabad,Electronics,Laptop,4,180000,0,720000,Cash
+TXN001056,CUST0331,2025-10-18,Ahmed Raza,Male,45,Islamabad,Electronics,Tablet,1,70000,10,63000,Cash
+TXN001057,CUST0314,2025-09-14,Hamza Shah,Male,35,Karachi,Home Appliances,Microwave,3,32000,5,91200,Debit Card
+TXN001058,CUST0037,2025-03-03,Ahmed Raza,Male,49,Multan,Electronics,Tablet,4,70000,5,266000,JazzCash
+TXN001059,CUST0344,2025-12-06,Usman Ali,Male,26,Rawalpindi,Electronics,Smartphone,1,90000,5,85500,Credit Card
+TXN001060,CUST0077,2025-07-24,Zain Malik,Male,22,Rawalpindi,Electronics,Smartphone,3,90000,5,256500,Cash
+TXN001061,CUST0325,2025-10-25,Ayesha Noor,Female,28,Rawalpindi,Home Appliances,Microwave,2,32000,5,60800,Debit Card
+TXN001062,CUST0265,2025-12-15,Umar Farooq,Male,29,Rawalpindi,Office,Webcam,1,9000,10,8100,JazzCash
+TXN001063,CUST0385,2025-11-30,Ahmed Raza,Male,31,Lahore,Accessories,Power Bank,4,6500,5,24700,JazzCash
+TXN001064,CUST0211,2025-12-09,Abdullah Tariq,Male,52,Lahore,Electronics,Smartphone,2,90000,0,180000,Cash
+TXN001065,CUST0335,2025-10-03,Sara Ahmed,Female,26,Multan,Office,External HDD,1,18000,0,18000,Credit Card
+TXN001066,CUST0080,2025-03-16,Ayesha Noor,Female,39,Faisalabad,Gaming,Gaming Keyboard,1,12000,20,9600,Debit Card
+TXN001067,CUST0188,2025-08-26,Ahmed Raza,Male,45,Lahore,Electronics,Laptop,3,180000,10,486000,Cash
+TXN001068,CUST0319,2025-01-08,Abdullah Tariq,Male,21,Faisalabad,Gaming,PS Controller,4,18000,10,64800,Cash
+TXN001069,CUST0238,2025-03-30,Ahmed Raza,Male,37,Faisalabad,Electronics,Smart Watch,1,25000,10,22500,EasyPaisa
+TXN001070,CUST0178,2025-03-09,Hassan Ali,Male,49,Karachi,Electronics,Tablet,2,70000,0,140000,Cash
+TXN001071,CUST0324,2025-01-03,Umar Farooq,Male,23,Lahore,Accessories,USB Cable,4,1200,0,4800,JazzCash
+TXN001072,CUST0325,2025-05-06,Ahmed Raza,Male,24,Islamabad,Electronics,Laptop,1,180000,0,180000,Cash
+TXN001073,CUST0033,2025-01-07,Usman Ali,Male,29,Lahore,Office,Printer,1,35000,15,29750,Cash
+TXN001074,CUST0114,2025-03-19,Fatima Khan,Female,22,Islamabad,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN001075,CUST0043,2025-02-14,Ahmed Raza,Male,44,Lahore,Electronics,Tablet,2,70000,10,126000,Cash
+TXN001076,CUST0085,2025-01-25,Laiba Khan,Female,34,Islamabad,Accessories,Headphones,1,7000,0,7000,JazzCash
+TXN001077,CUST0018,2025-06-27,Hamza Shah,Male,48,Karachi,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN001078,CUST0077,2025-02-24,Zain Malik,Male,23,Lahore,Accessories,Mouse,2,2500,0,5000,Cash
+TXN001079,CUST0066,2025-08-16,Hamza Shah,Male,33,Hyderabad,Electronics,Smartphone,1,90000,0,90000,JazzCash
+TXN001080,CUST0039,2025-06-14,Bilal Ahmed,Male,55,Faisalabad,Gaming,PS Controller,1,18000,0,18000,EasyPaisa
+TXN001081,CUST0297,2025-04-06,Zain Malik,Male,35,Lahore,Home Appliances,Blender,1,9500,15,8075,Cash
+TXN001082,CUST0386,2025-01-20,Maryam Iqbal,Female,30,Multan,Home Appliances,Air Fryer,1,18000,0,18000,Credit Card
+TXN001083,CUST0311,2025-10-18,Sara Ahmed,Female,60,Karachi,Electronics,Tablet,1,70000,5,66500,Cash
+TXN001084,CUST0210,2025-05-25,Bilal Ahmed,Male,40,Lahore,Accessories,Power Bank,2,6500,15,11050,credit card
+TXN001085,CUST0387,2025-07-07,Fatima Khan,Female,20,Lahore,Home Appliances,Vacuum Cleaner,5,26000,10,117000,Cash
+TXN001086,CUST0020,2025-11-19,Hamza Shah,Male,45,Islamabad,Electronics,Smart Watch,1,25000,15,21250,Debit Card
+TXN001087,CUST0233,2025-11-15,Umar Farooq,Male,52,Rawalpindi,Office,Webcam,1,9000,20,7200,Cash
+TXN001088,CUST0072,2025-10-04,Zain Malik,Male,37,Karachi,Accessories,Keyboard,2,4500,0,9000,Debit Card
+TXN001089,CUST0114,2025-12-19,Noor Fatima,Female,55,Karachi,Electronics,Laptop,3,180000,0,540000,Debit Card
+TXN001090,CUST0053,2025-12-06,Sara Ahmed,Female,48,Lahore,Accessories,Power Bank,1,6500,15,5525,Credit Card
+TXN001091,CUST0405,2025-07-13,Ahmed Raza,Male,56,islamabad,Accessories,Headphones,2,7000,15,11900,JazzCash
+TXN001092,CUST0207,2025-11-09,Usman Ali,Male,20,Islamabad,Electronics,Laptop,1,180000,5,171000,Cash
+TXN001093,CUST0202,2025-05-27,Fatima Khan,Female,28,Rawalpindi,Electronics,Smart Watch,4,25000,5,95000,Debit Card
+TXN001094,CUST0049,2025-06-29,Noor Fatima,Female,58,Islamabad,Electronics,Tablet,1,70000,20,56000,JazzCash
+TXN001095,CUST0216,2025-11-14,Abdullah Tariq,Male,47,Sialkot,Electronics,Laptop,2,180000,5,342000,Debit Card
+TXN001096,CUST0280,2025-04-26,Noor Fatima,Female,19,Karachi,Electronics,Smart Watch,2,25000,5,47500,Debit Card
+TXN001097,CUST0130,2025-07-07,Sara Ahmed,Female,49,Karachi,Accessories,USB Cable,3,1200,10,3240,Cash
+TXN001098,CUST0057,2025-10-03,Hassan Ali,Male,59,Faisalabad,Accessories,Keyboard,1,4500,0,4500,JazzCash
+TXN001099,CUST0283,2025-01-13,Umar Farooq,Male,50,Peshawar,Electronics,Laptop,4,180000,10,648000,Cash
+TXN001100,CUST0108,2025-04-09,Ayesha Noor,Female,50,Karachi,Gaming,Gaming Mouse,4,6500,0,26000,Credit Card
+TXN001101,CUST0331,2025-08-13,Laiba Khan,Female,21,Lahore,Gaming,Gaming Mouse,5,6500,5,30875,Cash
+TXN001102,CUST0035,2025-06-11,Hassan Ali,Male,53,Islamabad,Accessories,Headphones,1,7000,0,7000,JazzCash
+TXN001103,CUST0308,2025-12-18,Hassan Ali,Male,28,Islamabad,Home Appliances,Air Fryer,1,18000,5,17100,Cash
+TXN001104,CUST0041,2025-09-24,Maryam Iqbal,Female,23,Multan,Home Appliances,Air Fryer,1,18000,0,18000,EasyPaisa
+TXN001105,CUST0155,2025-07-12,Laiba Khan,Female,29,Lahore,Accessories,Power Bank,1,6500,5,6175,Cash
+TXN001106,CUST0089,2025-08-19,Ahmed Raza,Male,38,Lahore,Accessories,Keyboard,4,4500,0,18000,Cash
+TXN001107,CUST0009,2025-12-06,Abdullah Tariq,Male,56,Islamabad,Accessories,Power Bank,5,6500,0,32500,Cash
+TXN001108,CUST0254,2025-08-21,Umar Farooq,Male,55,Quetta,Office,External HDD,1,18000,0,18000,Debit Card
+TXN001109,CUST0152,2025-12-22,Maryam Iqbal,Female,57,Karachi,Electronics,Smartphone,4,90000,5,342000,Cash
+TXN001110,CUST0104,2025-08-19,Maryam Iqbal,Female,41,Faisalabad,Home Appliances,Microwave,2,32000,20,51200,EasyPaisa
+TXN001111,CUST0245,2025-07-18,Usman Ali,Male,31,LAHORE,Electronics,Smart Watch,4,25000,0,100000,Cash
+TXN001112,CUST0326,2025-07-16,Hassan Ali,Male,36,Karachi,Accessories,Power Bank,1,6500,5,6175,Debit Card
+TXN001113,CUST0131,2025-12-06,Laiba Khan,Female,28,Faisalabad,Accessories,Power Bank,4,6500,20,20800,Cash
+TXN001114,CUST0292,2025-01-03,Maryam Iqbal,Female,18,,Home Appliances,Blender,4,9500,0,38000,Credit Card
+TXN001115,CUST0113,2025-06-28,Noor Fatima,Female,33,Karachi,Electronics,Smart Watch,2,25000,10,45000,Cash
+TXN001116,CUST0433,2025-12-07,Usman Ali,Male,53,Lahore,Home Appliances,Microwave,1,32000,15,27200,Debit Card
+TXN001117,CUST0098,2025-07-05,Ahmed Raza,Male,22,Lahore,Electronics,Smartphone,1,90000,0,90000,Credit Card
+TXN001118,CUST0150,2025-04-01,Abdullah Tariq,Male,19,Lahore,Electronics,Tablet,2,70000,5,133000,JazzCash
+TXN001119,CUST0133,2025-02-21,Sara Ahmed,Female,53,Hyderabad,Gaming,Gaming Keyboard,1,12000,0,12000,JazzCash
+TXN001120,CUST0258,2025-07-03,Umar Farooq,Male,33,Islamabad,Accessories,Headphones,1,7000,5,6650,Debit Card
+TXN001121,CUST0193,2025-03-30,Hassan Ali,Male,19,Faisalabad,Office,Webcam,3,9000,15,22950,Cash
+TXN001122,CUST0264,2025-03-29,Ayesha Noor,Female,58,Peshawar,Home Appliances,Air Fryer,1,18000,10,16200,Credit Card
+TXN001123,CUST0285,2025-10-23,Maryam Iqbal,Female,31,Islamabad,Home Appliances,Microwave,1,32000,5,30400,Credit Card
+TXN001124,CUST0065,2025-04-22,Bilal Ahmed,Male,38,Lahore,Home Appliances,Microwave,3,32000,15,81600,Cash
+TXN001125,CUST0362,2025-04-13,Hamza Shah,Male,43,Karachi,Electronics,Smartphone,1,90000,10,81000,Credit Card
+TXN001126,CUST0277,2025-06-24,Ali Khan,Male,39,Sialkot,Electronics,Smart Watch,2,25000,0,50000,Debit Card
+TXN001127,CUST0071,2025-04-20,Fatima Khan,Female,23,Karachi,Gaming,Gaming Keyboard,2,12000,5,22800,Credit Card
+TXN001128,CUST0392,2025-12-02,Ayesha Noor,Female,47,Faisalabad,Electronics,Laptop,1,180000,0,180000,JazzCash
+TXN001129,CUST0228,2025-06-23,Laiba Khan,Female,18,Lahore,Office,External HDD,2,18000,10,32400,
+TXN001130,CUST0253,2025-11-07,Ali Khan,Male,45,Karachi,Accessories,USB Cable,4,1200,10,4320,EasyPaisa
+TXN001131,CUST0013,2025-04-13,Hamza Shah,Male,40,Quetta,Accessories,Headphones,1,7000,5,6650,Credit Card
+TXN001132,CUST0321,2025-11-07,Hamza Shah,Male,51,Rawalpindi,Office,Printer,1,35000,5,33250,Debit Card
+TXN001133,CUST0327,2025-03-20,Laiba Khan,Female,32,Karachi,Accessories,Power Bank,1,6500,20,5200,Cash
+TXN001134,CUST0374,2025-10-07,Maryam Iqbal,Female,47,Karachi,Electronics,Smartphone,1,90000,0,90000,Cash
+TXN001135,CUST0252,2025-08-29,Hamza Shah,Male,19,Lahore,Electronics,Laptop,1,180000,15,153000,Debit Card
+TXN001136,CUST0041,2025-09-09,Noor Fatima,Female,22,Islamabad,Electronics,Laptop,1,180000,5,171000,EasyPaisa
+TXN001137,CUST0014,2025-08-13,Laiba Khan,Female,21,Karachi,Accessories,Keyboard,1,4500,5,4275,Credit Card
+TXN001138,CUST0384,2025-02-20,Zain Malik,Male,55,Islamabad,Electronics,Smart Watch,3,25000,20,60000,EasyPaisa
+TXN001139,CUST0250,2025-10-08,Ali Khan,Male,27,Rawalpindi,Office,Webcam,1,9000,15,7650,Cash
+TXN001140,CUST0412,2025-10-30,Ahmed Raza,Male,49,Multan,Accessories,Mouse,1,2500,10,2250,Debit Card
+TXN001141,CUST0250,2025-07-03,Ahmed Raza,Male,23,Karachi,Electronics,Laptop,3,180000,0,540000,Debit Card
+TXN001142,CUST0374,2025-03-24,Noor Fatima,Female,59,Multan,Electronics,Smartphone,1,90000,5,85500,Debit Card
+TXN001143,CUST0057,2025-08-05,Laiba Khan,Female,33,Lahore,Electronics,Laptop,3,180000,0,540000,Debit Card
+TXN001144,CUST0166,2025-08-24,Sara Ahmed,Female,32,Karachi,Electronics,Smart Watch,2,25000,15,42500,EasyPaisa
+TXN001145,CUST0083,2025-07-24,Abdullah Tariq,Male,33,Hyderabad,Electronics,Smartphone,4,90000,0,360000,Cash
+TXN001146,CUST0054,2025-04-08,Ali Khan,Male,26,LAHORE,Electronics,Laptop,3,180000,5,513000,Cash
+TXN001147,CUST0322,2025-09-06,Fatima Khan,Female,50,Lahore,Electronics,Smart Watch,1,25000,20,20000,Debit Card
+TXN001148,CUST0278,2025-12-23,Zain Malik,Male,27,Islamabad,Accessories,Mouse,1,2500,5,2375,Cash
+TXN001149,CUST0119,2025-10-27,Usman Ali,Male,32,Karachi,Accessories,USB Cable,1,1200,10,1080,Cash
+TXN001150,CUST0021,2025-04-15,Fatima Khan,Female,55,Karachi,Electronics,Laptop,1,180000,0,180000,Cash
+TXN001151,CUST0422,2025-08-11,Usman Ali,Male,42,Karachi,Accessories,Keyboard,2,4500,5,8550,EasyPaisa
+TXN001152,CUST0378,2025-10-03,Fatima Khan,Female,44,Karachi,Electronics,Smartphone,1,90000,10,81000,EasyPaisa
+TXN001153,CUST0409,2025-07-18,Sara Ahmed,Female,25,Rawalpindi,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN001154,CUST0428,2025-11-23,Fatima Khan,Female,52,Faisalabad,Accessories,Headphones,2,7000,0,14000,Cash
+TXN001155,CUST0109,2025-12-31,Maryam Iqbal,Female,27,Rawalpindi,Electronics,Smart Watch,4,25000,15,85000,Cash
+TXN001156,CUST0083,2025-12-09,Zain Malik,Male,41,Rawalpindi,Electronics,Tablet,2,70000,20,112000,Cash
+TXN001157,CUST0415,2025-10-15,Hamza Shah,Male,52,Karachi,Electronics,Smart Watch,2,25000,10,45000,Debit Card
+TXN001158,CUST0114,2025-08-27,Hamza Shah,Male,36,Islamabad,Accessories,USB Cable,1,1200,0,1200,Debit Card
+TXN001159,CUST0112,2025-02-06,Ayesha Noor,Female,32,Karachi,Electronics,Laptop,1,180000,10,162000,Debit Card
+TXN001160,CUST0325,2025-01-21,Ali Khan,Male,34,Peshawar,Gaming,Gaming Mouse,2,6500,0,13000,Cash
+TXN001161,CUST0086,2025-11-18,Usman Ali,Male,22,Rawalpindi,Accessories,Power Bank,3,6500,5,18525,Credit Card
+TXN001162,CUST0170,2025-03-12,Hassan Ali,Male,33,Karachi,Accessories,USB Cable,2,1200,10,2160,EasyPaisa
+TXN001163,CUST0099,2025-02-02,Bilal Ahmed,Male,49,,Accessories,USB Cable,1,1200,0,1200,EasyPaisa
+TXN001164,CUST0297,2025-03-06,Abdullah Tariq,Male,45,Lahore,Electronics,Laptop,1,180000,10,162000,Credit Card
+TXN001165,CUST0086,2025-05-29,Ali Khan,Male,57,Peshawar,Electronics,Smart Watch,2,25000,0,50000,EasyPaisa
+TXN001166,CUST0168,2025-07-23,Ali Khan,Male,42,Peshawar,Electronics,Laptop,2,180000,15,306000,Credit Card
+TXN001167,CUST0088,2025-09-16,Ahmed Raza,Male,57,Lahore,Home Appliances,Vacuum Cleaner,5,26000,0,130000,Cash
+TXN001168,CUST0070,2025-01-22,Noor Fatima,Female,32,Islamabad,Gaming,Gaming Mouse,2,6500,20,10400,Credit Card
+TXN001169,CUST0120,2025-09-17,Abdullah Tariq,Male,35,Rawalpindi,Electronics,Smartphone,3,90000,15,229500,Debit Card
+TXN001170,CUST0033,2025-02-10,Noor Fatima,Female,25,Karachi,Electronics,Laptop,1,180000,10,162000,Cash
+TXN001171,CUST0271,2025-05-13,Sara Ahmed,Female,36,Karachi,Accessories,Power Bank,3,6500,5,18525,Cash
+TXN001172,CUST0138,2025-03-04,Zain Malik,Male,51,Faisalabad,Gaming,PS Controller,1,18000,5,17100,Cash
+TXN001173,CUST0311,2025-08-26,Maryam Iqbal,Female,42,Lahore,Accessories,Keyboard,1,4500,10,4050,Cash
+TXN001174,CUST0190,2025-07-07,Umar Farooq,Male,21,Karachi,Accessories,Power Bank,2,6500,0,13000,Cash
+TXN001175,CUST0377,2025-01-28,,Female,28,Islamabad,Office,Printer,2,35000,0,70000,Cash
+TXN001176,CUST0015,2025-06-03,Hassan Ali,Male,29,Lahore,Electronics,Laptop,4,180000,0,720000,Credit Card
+TXN001177,CUST0034,2025-03-02,Zain Malik,Male,29,Hyderabad,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN001178,CUST0099,2025-09-03,Zain Malik,Male,20,Lahore,Electronics,Smartphone,3,90000,0,270000,Cash
+TXN001179,CUST0209,2025-07-15,Ali Khan,Male,44,Hyderabad,Accessories,Mouse,5,2500,5,11875,Cash
+TXN001180,CUST0235,2025-06-29,Usman Ali,Male,23,Sialkot,Home Appliances,Vacuum Cleaner,2,26000,20,41600,Debit Card
+TXN001181,CUST0274,2025-09-23,Maryam Iqbal,Female,33,Rawalpindi,Electronics,Laptop,3,180000,5,513000,Cash
+TXN001182,CUST0403,2025-08-09,Ayesha Noor,Female,28,Karachi,Electronics,Smart Watch,5,25000,20,100000,Cash
+TXN001183,CUST0109,2025-06-27,Usman Ali,Male,23,,Office,External HDD,2,18000,5,34200,Cash
+TXN001184,CUST0059,2025-11-27,Ahmed Raza,Male,47,Peshawar,Home Appliances,Microwave,2,32000,0,64000,JazzCash
+TXN001185,CUST0383,2025-06-13,Hassan Ali,Male,35,Karachi,Accessories,Power Bank,4,6500,0,26000,Debit Card
+TXN001186,CUST0040,2025-02-24,Laiba Khan,Female,42,Karachi,Home Appliances,Air Fryer,1,18000,5,17100,Debit Card
+TXN001187,CUST0131,2025-08-28,Hamza Shah,Male,44,Lahore,Electronics,Laptop,1,180000,0,180000,Debit Card
+TXN001188,CUST0088,2025-09-14,Fatima Khan,Female,21,Lahore,Accessories,Keyboard,2,4500,10,8100,Cash
+TXN001189,CUST0380,2025-06-28,Fatima Khan,Female,46,Multan,Accessories,Power Bank,1,6500,0,6500,Cash
+TXN001190,CUST0106,2025-01-11,Ahmed Raza,Male,21,Lahore,Office,Printer,1,35000,5,33250,JazzCash
+TXN001191,CUST0375,2025-12-12,Fatima Khan,Female,49,Rawalpindi,Home Appliances,Microwave,1,32000,5,30400,Credit Card
+TXN001192,CUST0301,2025-01-10,Bilal Ahmed,Male,37,Islamabad,Home Appliances,Air Fryer,2,18000,0,36000,Cash
+TXN001193,CUST0419,2025-04-02,Maryam Iqbal,Female,33,Sialkot,Home Appliances,Air Fryer,2,18000,0,36000,JazzCash
+TXN001194,CUST0340,2025-01-29,Fatima Khan,Female,36,Islamabad,Accessories,Power Bank,4,6500,15,22100,JazzCash
+TXN001195,CUST0127,2025-04-03,Ali Khan,Male,38,Karachi,Electronics,Smartphone,2,90000,5,171000,
+TXN001196,CUST0190,2025-08-04,Ali Khan,Male,25,Quetta,Electronics,Smart Watch,3,25000,10,67500,JazzCash
+TXN001197,CUST0072,2025-06-14,Sara Ahmed,Female,51,Rawalpindi,Accessories,Keyboard,4,4500,0,18000,EasyPaisa
+TXN001198,CUST0060,2025-10-09,Ali Khan,Male,34,Multan,Gaming,PS Controller,4,18000,15,61200,Credit Card
+TXN001199,CUST0185,2025-09-27,Ali Khan,Male,37,Lahore,Accessories,Headphones,4,7000,0,28000,Debit Card
+TXN001200,CUST0064,2025-04-15,Ali Khan,Male,26,Peshawar,Gaming,PS Controller,2,18000,0,36000,Debit Card
+TXN000460,CUST0251,2025-03-15,Ahmed Raza,Male,59,Rawalpindi,Office,External HDD,2,18000,5,34200,Cash
+TXN000458,CUST0153,2025-08-06,Umar Farooq,Male,59,Islamabad,Electronics,Tablet,2,70000,0,140000,Credit Card
+TXN001023,CUST0289,2025-06-18,Laiba Khan,Female,46,Karachi,Accessories,Keyboard,1,4500,20,3600,Debit Card
+TXN000142,CUST0329,2025-06-28,Noor Fatima,Female,60,Lahore,Home Appliances,Air Fryer,3,18000,10,48600,Cash
+TXN000669,CUST0401,2025-04-02,Zain Malik,Male,27,Karachi,Electronics,Smart Watch,1,25000,0,25000,Cash
+TXN001012,CUST0363,2025-10-02,Maryam Iqbal,Female,32,Lahore,Electronics,Tablet,2,70000,10,126000,Cash
+TXN000152,CUST0203,2025-03-30,Abdullah Tariq,Male,41,Faisalabad,Accessories,Keyboard,2,4500,10,8100,Debit Card
+TXN000831,CUST0096,2025-03-21,Abdullah Tariq,Male,19,Rawalpindi,Electronics,Smart Watch,2,25000,5,47500,Cash
+TXN000751,CUST0114,2025-08-11,Hamza Shah,Male,24,Islamabad,Accessories,USB Cable,1,1200,15,1020,EasyPaisa
+TXN000047,CUST0361,2025-10-01,,Male,56,Rawalpindi,Office,Printer,5,35000,10,157500,JazzCash
+TXN001133,CUST0327,2025-03-20,Laiba Khan,Female,32,Karachi,Accessories,Power Bank,1,6500,20,5200,Cash
+TXN000129,CUST0114,2025-01-25,Noor Fatima,Female,52,Hyderabad,Home Appliances,Microwave,1,32000,5,30400,JazzCash
+TXN000035,CUST0262,2025-12-07,Bilal Ahmed,Male,35,Lahore,Accessories,Mouse,2,2500,15,4250,Debit Card
+TXN000281,CUST0395,2025-12-24,Laiba Khan,Female,52,Islamabad,Accessories,Keyboard,1,4500,0,4500,Debit Card
+TXN000595,CUST0173,2025-01-28,Bilal Ahmed,Male,36,Islamabad,Gaming,Gaming Mouse,1,6500,10,5850,Debit Card
